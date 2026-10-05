@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "DynamicSystemInstallationServiceTranslations",
+    product_specific: true,
+    certificate: "platform",
+}

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="app_lock_relock_behavior_entries">
+        <item>제한 시간 후</item>
+        <item>화면이 꺼지면</item>
+    </string-array>
+    <string-array name="app_lock_grace_period_entries">
+        <item>즉시</item>
+        <item>5초</item>
+        <item>15초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>5분</item>
+    </string-array>
+    <string-array name="themes_boot_animation_entries">
+        <item>Evolution X</item>
+        <item>Evolution X (Reveal)</item>
+        <item>AOKP</item>
+        <item>CyanogenMod</item>
+        <item>ctOS</item>
+        <item>Cyberpunk</item>
+        <item>Dirty Unicorns</item>
+        <item>Google</item>
+        <item>Google (Monet)</item>
+        <item>PAC-ROM</item>
+        <item>Resurrection Remix</item>
+        <item>SlimRoms</item>
+        <item>Valorant</item>
+        <item>사용자 지정</item>
+    </string-array>
+    <string-array name="wallpaper_effect_entries">
+        <item>없음</item>
+        <item>블러 그레인</item>
+        <item>색수차</item>
+        <item>비네트</item>
+        <item>픽셀화</item>
+        <item>채도</item>
+        <item>세피아</item>
+        <item>선명하게</item>
+        <item>그레이스케일</item>
+        <item>네거티브</item>
+        <item>방사형 블러</item>
+        <item>포스터화</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>기본값</item>
+        <item>OOS 시계</item>
+        <item>IOS 시계</item>
+        <item>COS 시계</item>
+        <item>맞춤 시계</item>
+        <item>맞춤 시계 1</item>
+        <item>맞춤 시계 2</item>
+        <item>맞춤 시계 3</item>
+        <item>MIUI 시계</item>
+        <item>IDE 시계</item>
+        <item>Lottie 시계</item>
+        <item>Lottie2 시계</item>
+        <item>플루이드 시계</item>
+        <item>듀얼톤 시계</item>
+        <item>듀얼톤2 시계</item>
+        <item>스타일리시 시계</item>
+        <item>사이드바 시계</item>
+        <item>미니멀 시계</item>
+        <item>미니멀2 시계</item>
+        <item>미니멀3 시계</item>
+    </string-array>
+    <string-array name="nowplaying_icon_style_entries">
+        <item>사용 중지됨</item>
+        <item>앱 아이콘</item>
+        <item>음표 아이콘</item>
+    </string-array>
+    <string-array name="charging_animation_style_entries">
+        <item>버블 스트림</item>
+        <item>네온 글로 스프레이</item>
+        <item>빔 효과</item>
+        <item>플라스마 효과</item>
+        <item>퀀텀 스파크</item>
+        <item>성운 확산</item>
+        <item>디지털 매트릭스</item>
+        <item>지오플로</item>
+    </string-array>
+    <string-array name="charging_color_mode_entries">
+        <item>기본 녹색</item>
+        <item>강조 색상</item>
+        <item>무지개</item>
+    </string-array>
+    <string-array name="perapp_spoof_profile_labels">
+        <item>Black Shark 4 (China)</item>
+        <item>Poco F5</item>
+        <item>Samsung Galaxy S25 Ultra</item>
+        <item>Samsung Galaxy Z Fold 5</item>
+        <item>Honor Magic V2 RSR</item>
+        <item>Lenovo Legion Y700</item>
+        <item>Xiaomi 11T Pro</item>
+        <item>Xiaomi 13</item>
+        <item>Xiaomi 13 Pro</item>
+        <item>Xiaomi 14 Pro</item>
+        <item>OnePlus 12</item>
+        <item>OnePlus 13</item>
+        <item>Pixel 11 Pro XL</item>
+        <item>REDMAGIC 9 Pro</item>
+        <item>REDMAGIC 10 Pro</item>
+        <item>Realme 15 Pro 5G</item>
+        <item>ROG Phone 9 Pro</item>
+        <item>없음</item>
+    </string-array>
+    <string-array name="cutout_progress_finish_style_entries">
+        <item>팝</item>
+        <item>분할 캐스케이드</item>
+        <item>즉시</item>
+    </string-array>
+    <string-array name="cutout_progress_easing_entries">
+        <item>선형</item>
+        <item>가속</item>
+        <item>감속</item>
+        <item>가속 후 감속</item>
+    </string-array>
+    <string-array name="cutout_progress_position_entries">
+        <item>오른쪽</item>
+        <item>왼쪽</item>
+        <item>상단</item>
+        <item>하단</item>
+        <item>오른쪽 상단</item>
+        <item>왼쪽 상단</item>
+        <item>오른쪽 하단</item>
+        <item>왼쪽 하단</item>
+    </string-array>
+    <string-array name="cutout_progress_truncate_entries">
+        <item>중간</item>
+        <item>시작</item>
+        <item>끝</item>
+    </string-array>
+    <string-array name="lock_glymps_source_entries">
+        <item>랜덤 배경화면(Picsum)</item>
+        <item>사용자 지정 URL 목록</item>
+        <item>로컬 폴더</item>
+    </string-array>
+    <string-array name="lock_glymps_cache_size_entries">
+        <item>배경화면 3장(~30MB)</item>
+        <item>배경화면 5장(~50MB)</item>
+        <item>배경화면 10장(~100MB)</item>
+    </string-array>
+    <string-array name="lock_glymps_change_on_entries">
+        <item>화면이 켜질 때</item>
+        <item>화면이 꺼질 때(권장)</item>
+        <item>타이머 기반</item>
+    </string-array>
+    <string-array name="lock_glymps_timer_entries">
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>6시간</item>
+        <item>12시간</item>
+        <item>24시간</item>
+    </string-array>
+    <string-array name="playback_speed_entries">
+        <item>0.25x(매우 느림)</item>
+        <item>0.5x(느림)</item>
+        <item>0.75x(약간 느림)</item>
+        <item>1.0x(보통)</item>
+        <item>1.25x(약간 빠름)</item>
+        <item>1.5x(빠름)</item>
+        <item>2.0x(매우 빠름)</item>
+    </string-array>
+    <string-array name="quick_settings_data_usage_window_entries">
+        <item>매일</item>
+        <item>매주</item>
+    </string-array>
+</resources>

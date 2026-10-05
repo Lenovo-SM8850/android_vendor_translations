@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">サイドバー</string>
+    <string name="enable_sideline">サイドバーを使用</string>
+    <string name="sidebar_label">サイドバー</string>
+    <string name="sidebar_summary">フローティング ウィンドウでアプリをすばやく開きます</string>
+    <string name="sidebar_app_setting_label">固定したアプリ</string>
+    <string name="sidebar_settings_description">サイドバーの設定を開く</string>
+    <string name="sidebar_predicted_apps">おすすめのアプリを表示</string>
+    <string name="sidebar_predicted_apps_summary">固定したアプリの下に、おすすめのアプリを最大 6 個表示します</string>
+    <string name="sidebar_auto_enable_selected_apps">選択したアプリでサイドバーを自動的に有効にする</string>
+    <string name="sidebar_auto_enable_selected_apps_summary">設定したアプリを起動したときに、サイドバーを自動的に表示します</string>
+    <string name="sidebar_per_app_config">アプリを設定</string>
+    <string name="sidebar_per_app_config_summary">サイドバーを自動的に有効にするアプリを選択します</string>
+    <string name="sidebar_customization_title">サイドバーのカスタマイズ</string>
+    <string name="sidebar_section_slider">スライダーの設定</string>
+    <string name="sidebar_section_layout">レイアウトの設定</string>
+    <string name="sidebar_section_visual">視覚効果</string>
+    <string name="sidebar_section_miscellaneous">その他</string>
+    <string name="sidebar_transparency_value">スライダーの透明度: %1$.2f</string>
+    <string name="sidebar_length_value">スライダーの長さ: %1$d</string>
+    <string name="sidebar_width_value">スライダーの幅: %1$d</string>
+    <string name="sidebar_position_label">スライダーの位置</string>
+    <string name="sidebar_left">左</string>
+    <string name="sidebar_right">右</string>
+    <string name="sidebar_icon_size_value">アイコンのサイズ: %1$d dp</string>
+    <string name="sidebar_icon_padding_value">アイコンの余白: %1$d dp</string>
+    <string name="sidebar_icon_padding_summary">各アイコンの周囲の余白</string>
+    <string name="sidebar_column_spacing_value">列の間隔: %1$d dp</string>
+    <string name="sidebar_column_spacing_summary">列と列の間の余白</string>
+    <string name="sidebar_corner_radius_value">角の半径: %1$d dp</string>
+    <string name="sidebar_bg_transparency_value">背景の透明度: %1$.2f</string>
+    <string name="sidebar_reset_defaults">デフォルトに戻す</string>
+    <string name="sidebar_drop_shadow_title">ドロップ シャドウ</string>
+    <string name="sidebar_drop_shadow_summary">サイドバーに影の効果を追加します</string>
+    <string name="sidebar_tap_to_open_title">タップでドロワーを開く</string>
+    <string name="sidebar_tap_to_open_summary">スライダーをタップしたときに、サイドバーのドロワーを開きます</string>
+    <string name="sidebar_swipe_to_open_title">スワイプでドロワーを開く</string>
+    <string name="sidebar_swipe_to_open_summary">スライダーを横にスワイプしたときに、サイドバーのドロワーを開きます</string>
+    <string name="sidebar_hide_on_gamespace_title">ゲームスペースの起動中は非表示</string>
+    <string name="sidebar_hide_on_gamespace_summary">ゲームスペースでゲームを実行中は、サイドバーのスライダーを自動的に非表示にします</string>
+    <plurals name="sidebar_columns_value">
+        <item quantity="other">%1$d 列</item>
+    </plurals>
+</resources>

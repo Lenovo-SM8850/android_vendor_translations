@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sidebar_summary">在悬浮窗口中快速打开应用</string>
+    <string name="sidebar_predicted_apps_summary">在固定的应用下方最多显示 6 个建议应用</string>
+    <string name="sidebar_auto_enable_selected_apps">对所选应用自动启用侧边栏</string>
+    <string name="sidebar_transparency_value">滑块透明度：%1$.2f</string>
+    <string name="sidebar_length_value">滑块长度：%1$d</string>
+    <string name="sidebar_width_value">滑块宽度：%1$d</string>
+    <string name="sidebar_icon_size_value">图标大小：%1$d dp</string>
+    <string name="sidebar_icon_padding_value">图标内边距：%1$d dp</string>
+    <string name="sidebar_column_spacing_value">列间距：%1$d dp</string>
+    <string name="sidebar_corner_radius_value">拐角弧度：%1$d dp</string>
+    <string name="sidebar_bg_transparency_value">背景透明度：%1$.2f</string>
+    <string name="sidebar_tap_to_open_title">点按时打开抽屉</string>
+    <string name="sidebar_tap_to_open_summary">点按滑块即可打开侧边栏抽屉</string>
+    <string name="sidebar_swipe_to_open_title">滑动时打开抽屉</string>
+    <string name="sidebar_hide_on_gamespace_summary">通过游戏空间运行游戏时，自动隐藏侧边栏滑块</string>
+</resources>

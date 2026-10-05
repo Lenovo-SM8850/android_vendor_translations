@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="admin_has_ability_to_monitor_device">조직 관리자는 네트워크 활동 및 이 차량의 위치를 비롯하여 이 차량과 연결된 설정, 회사 액세스, 앱, 권한, 데이터를 모니터링하고 관리할 수 있습니다.<xliff:g id="line_break">\n\n</xliff:g>조직의 개인정보처리방침을 비롯한 자세한 내용은 조직 관리자에게 문의하세요.</string>
+    <string name="contact_your_admin_for_more_info">조직의 개인정보처리방침을 비롯한 자세한 내용은 조직 관리자에게 문의하세요.</string>
+    <string name="managed_device_info">관리되는 차량입니다.</string>
+    <string name="contact_your_admin_for_help">조직 관리자에게 도움 요청</string>
+    <string name="contact_device_provider">자세한 내용은 <xliff:g id="it_admin" example="organizations manager">%1$s</xliff:g>에게 문의하세요.</string>
+    <string name="if_questions_contact_admin">궁금한 점이 있으면 조직 관리자에게 문의하세요.</string>
+    <string name="organization_admin">조직 관리자</string>
+    <string name="brand_screen_header">이 차량은 조직 소유입니다</string>
+    <string name="fully_managed_device_provisioning_accept_header">관리되는 차량 설정</string>
+    <string name="fully_managed_device_provisioning_step_1_header">조직의 앱에 액세스</string>
+    <string name="fully_managed_device_provisioning_step_2_header">인포테인먼트 시스템 데이터는 비공개가 아닙니다</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">조직 관리자는 이 차량에서의 활동 및 데이터를 볼 수 있습니다.</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">조직 관리자는 이 차량의 앱에 마이크 및 위치 권한 등의 권한을 설정할 수 있습니다.</string>
+    <string name="fully_managed_device_provisioning_progress_label">관리되는 차량 설정 중</string>
+    <string name="fully_managed_device_provisioning_summary">이 차량의 인포테인먼트 시스템을 사용하여 업무용 앱에 쉽게 액세스하세요. 이 차량은 비공개가 아니므로 조직 관리자가 데이터와 활동을 볼 수 있습니다.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">이 차량의 인포테인먼트 시스템을 사용하여 업무용 앱에 쉽게 액세스할 수 있습니다. 이 차량은 개인용이 아니므로 조직 관리자가 활동과 데이터를 볼 수 있습니다. 조직 관리자는 이 차량의 앱에 대해 마이크 및 위치 권한 같은 권한을 설정할 수도 있습니다.</string>
+    <string name="fully_managed_device_provisioning_return_device_title">설정 취소 및 차량 반납</string>
+    <string name="fully_managed_device_provisioning_return_device_subheader">이 차량을 초기화하여 조직 관리자에게 반납하거나 이전 화면으로 돌아가 설정을 계속 진행할 수 있습니다.</string>
+    <string name="fully_managed_device_reset_and_return_button">초기화 및 반납</string>
+    <string name="fully_managed_device_provisioning_privacy_title">개인정보 보호 고지</string>
+    <string name="fully_managed_device_provisioning_privacy_body">조직 관리자가 이 차량에서 사용자의 데이터와 활동을 볼 수 있습니다.</string>
+    <string name="fully_managed_device_provisioning_step_1_description">인포테인먼트 시스템 설정 중...</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader_title">내 활동 및 데이터</string>
+</resources>

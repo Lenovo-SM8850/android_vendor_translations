@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="timer_off">ТАЙМЕР ВЫКЛ</string>
+    <string name="effect_night">НОЧНАЯ СъёмкА</string>
+    <string name="qr_fido_title">Использовать ключ доступа</string>
+    <string name="qr_fido_content_description">Обработать этот QR-код FIDO</string>
+    <string name="qr_product_content_description">Найти этот товар по штрихкоду</string>
+    <string name="qr_upi_content_description">Открыть эту ссылку UPI в подходящем приложении, если поддерживается</string>
+    <string name="save_location_title">Сохранять данные о местоположении</string>
+    <string name="save_location_summary">Добавлять местоположение GPS в метаданные</string>
+    <string name="shutter_sound_summary">Воспроизводить звук при съёмке</string>
+    <string name="single_buttons_title">Отдельные кнопки</string>
+    <string name="mute_button_action_title">Действие кнопки отключения звука</string>
+    <string name="photo_capture_mode_title">Режим съёмки</string>
+    <string name="enable_raw_image_capture_summary">Включить съёмку в формате RAW. При включённой съёмке в формате RAW фотографии не могут быть сохранены в формате JPEG Ultra HDR</string>
+    <string name="disable_jpeg_with_raw_summary">Отключить JPEG при включённой съёмке в формате RAW</string>
+    <string name="video_mirror_mode_title">Включить зеркалирование видео</string>
+    <string name="noise_reduction_mode_summary">Алгоритм шумоподавления позволяет улучшить качество изображения за счёт удаления излишних шумов, возникающих в процессе съёмки, особенно в условиях недостаточной освещённости.</string>
+    <string name="error_camera_in_use">Эта камера уже используется, попробуйте закрыть использующее её приложение.</string>
+    <string name="error_do_not_disturb_mode_enabled">Включён режим \"Не беспокоить\". Отключите его и снова откройте приложение.</string>
+    <string name="gesture_action_default">Как в Android</string>
+    <string name="thermal_status_moderate">Умеренное тепловое ограничение производительности: убедитесь, что устройство не находится под прямыми солнечными лучами.</string>
+    <string name="thermal_status_severe">Сильное тепловое ограничение производительности: рекомендуется дать устройству немного остыть.</string>
+    <string name="thermal_status_critical">Критическое тепловое ограничение производительности: приложение может быть вскоре закрыто.</string>
+    <string name="thermal_status_emergency">Аварийное тепловое ограничение производительности: приложение сейчас будет закрыто.</string>
+    <string name="thermal_status_shutdown">Тепловое ограничение перед выключением: устройство будет выключено.</string>
+</resources>

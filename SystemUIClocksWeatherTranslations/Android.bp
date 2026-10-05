@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "SystemUIClocksWeatherTranslations",
+    product_specific: true,
+    certificate: "platform",
+}

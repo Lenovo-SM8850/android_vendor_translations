@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_header">Изображения заголовка</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="wallpaper_type_both">Домашний экран и заблокированный экран</string>
+    <string name="wallpaper_type_lock">Заблокированный экран</string>
+    <string name="no_crop_activity_dialog_text">Для установки обоев требуется приложение Omni Gallery</string>
+    <string name="scrolling_wall_dialog_text">Обрезать обои до размера экрана?</string>
+    <string name="download_wallpaper_failed_notice">Не удалось загрузить обои</string>
+    <string name="browse_theme_walls">Тематические обои</string>
+    <string name="browse_theme_header">Тематические изображения заголовка</string>
+    <string name="pick_header">Выбор изображений заголовка</string>
+    <string name="sort_by_creator_menu">Сортировка по автору</string>
+    <string name="sort_by_tag_menu">Сортировка по тегу</string>
+    <string name="sort_by_default_menu">Сортировка по названию</string>
+    <string name="download_header_notice">Загрузка заголовка</string>
+    <string name="download_header_failed_notice">Не удалось загрузить заголовок</string>
+    <string name="header_location_local">Локальный</string>
+    <string name="header_location_online">Онлайн</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="check_error_has_snapshots">我们找到了 %1$d 个备份快照，其中一些已损坏或有错误。下方是可以（部分）恢复的备份。</string>
+    <string name="check_error_no_result">我们丢失了详细结果。距离运行检查是否已过去很久？请重新运行。</string>
+    <string name="check_error_no_snapshots">我们找不到任何备份。请先成功运行一次备份，然后再重试检查。</string>
+    <string name="check_error_only_broken_snapshots">我们找到了 %1$d 个备份快照，但全部已损坏。请先成功运行一次备份，然后再重试检查。</string>
+    <string name="check_error_snapshot">此备份有一些错误。您或许可以部分恢复它。</string>
+    <string name="check_files_error">备份数据已损坏，文件无法完全恢复。</string>
+    <string name="check_files_text">备份“%s”包含以下文件：</string>
+    <string name="check_success_intro">找到 %1$d 个快照，已成功验证其 %2$d%% 的数据（共 %3$s）：</string>
+    <string name="mtrl_button_collapsed_content_description">已收起</string>
+    <string name="mtrl_button_expanded_content_description">已展开</string>
+    <string name="mtrl_button_overflow_icon_content_description">更多选项</string>
+    <string name="nav_rail_collapsed_a11y_label">已收起</string>
+    <string name="nav_rail_expanded_a11y_label">已展开</string>
+    <string name="notification_check_error_text">点按查看详情。我们检查了 %1$s，平均速度为 %2$s。</string>
+    <string name="notification_check_error_title">发现文件备份错误</string>
+    <string name="notification_check_finished_text">成功检查了 %1$s，平均速度为 %2$s。</string>
+    <string name="notification_check_text">正在获取可用的备份数据。</string>
+    <string name="notification_check_title">正在检查文件备份…</string>
+</resources>

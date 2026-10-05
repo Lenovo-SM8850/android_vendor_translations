@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_title">Дополнительные настройки</string>
+    <string name="more_settings_subtitle">Относительная громкость, автоопределение уха и другое</string>
+    <string name="automatic_ear_detection_title">Автоопределение уха</string>
+    <string name="personalized_volume_title">Персонализированная громкость</string>
+    <string name="personalized_volume_summary">Регулировать громкость мультимедиа в зависимости от окружающей обстановки.</string>
+    <string name="conversational_awareness_title">Распознавание разговора</string>
+    <string name="conversational_awareness_summary">Снижать громкость мультимедиа и уменьшать фоновый шум, когда вы говорите.</string>
+    <string name="relative_conversational_awareness_volume_title">Относительная громкость</string>
+    <string name="relative_conversational_awareness_volume_summary">Громкость снижается до доли от текущей, а не от максимальной.</string>
+    <string name="conversational_awareness_pause_music_title">Приостанавливать мультимедиа</string>
+    <string name="conversational_awareness_pause_music_summary">Останавливать воспроизведение мультимедиа, когда вы говорите.</string>
+    <string name="head_gestures_title">Жесты головой</string>
+    <string name="head_gestures_summary">Кивните, чтобы ответить на звонок, или покачайте головой, чтобы отклонить его.</string>
+    <string name="use_alternate_head_tracking_packets_title">Альтернативные пакеты отслеживания головы</string>
+    <string name="use_alternate_head_tracking_packets_summary">Отправка в AirPods других данных для запроса и остановки отслеживания движений головы. Включите, если отслеживание движений головы не работает.</string>
+    <string name="disconnect_when_not_wearing_title">Отключаться, если наушники не надеты</string>
+    <string name="low_latency_audio_title">Звук с малой задержкой</string>
+    <string name="low_latency_audio_summary">Уменьшать задержки звука.\nПосле включения требуется повторное подключение AirPods. Может увеличить расход заряда батареи.</string>
+    <string name="low_latency_audio_slice_subtitle">Требуется повторное подключение AirPods.</string>
+    <string name="head_gesture_call_answered_toast">Вызов принят жестом головы</string>
+    <string name="head_gesture_call_rejected_toast">Вызов отклонён жестом головы</string>
+</resources>

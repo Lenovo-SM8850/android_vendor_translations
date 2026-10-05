@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_sideline">Использовать боковую панель</string>
+    <string name="sidebar_summary">Быстрое открытие приложений в плавающем окне</string>
+    <string name="sidebar_per_app_config_summary">Выбрать приложения, которые должны автоматически включать боковую панель</string>
+    <string name="sidebar_customization_title">Настройка боковой панели</string>
+    <string name="sidebar_section_slider">Настройки ползунка</string>
+    <string name="sidebar_length_value">Длина ползунка: %1$d</string>
+    <string name="sidebar_left">Слева</string>
+    <string name="sidebar_right">Справа</string>
+    <string name="sidebar_reset_defaults">Сбросить до значений по умолчанию</string>
+    <string name="sidebar_hide_on_gamespace_title">Скрывать при активном игровом пространстве</string>
+    <string name="sidebar_hide_on_gamespace_summary">Автоматически скрывать ползунок боковой панели, когда игра запущена в игровом пространстве</string>
+    <plurals name="sidebar_columns_value">
+        <item quantity="one">%1$d столбец</item>
+        <item quantity="few">%1$d столбца</item>
+        <item quantity="many">%1$d столбцов</item>
+        <item quantity="other">%1$d столбца</item>
+    </plurals>
+</resources>

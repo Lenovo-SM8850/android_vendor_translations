@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="app_lock_relock_behavior_entries">
+        <item>После тайм-аута</item>
+        <item>При выключении экрана</item>
+    </string-array>
+    <string-array name="app_lock_grace_period_entries">
+        <item>Сразу</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+    </string-array>
+    <string-array name="themes_boot_animation_entries">
+        <item>Evolution X</item>
+        <item>Evolution X (Появление)</item>
+        <item>AOKP</item>
+        <item>CyanogenMod</item>
+        <item>ctOS</item>
+        <item>Cyberpunk</item>
+        <item>Dirty Unicorns</item>
+        <item>Google</item>
+        <item>Google (Monet)</item>
+        <item>PAC-ROM</item>
+        <item>Resurrection Remix</item>
+        <item>SlimRoms</item>
+        <item>Valorant</item>
+        <item>Пользовательская</item>
+    </string-array>
+    <string-array name="wallpaper_effect_entries">
+        <item>Нет</item>
+        <item>Размытие с зерном</item>
+        <item>Хроматическая аберрация</item>
+        <item>Виньетирование</item>
+        <item>Пикселизация</item>
+        <item>Насыщенность</item>
+        <item>Сепия</item>
+        <item>Резкость</item>
+        <item>Оттенки серого</item>
+        <item>Негатив</item>
+        <item>Радиальное размытие</item>
+        <item>Постеризация</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>По умолчанию</item>
+        <item>Часы OOS</item>
+        <item>Часы IOS</item>
+        <item>Часы COS</item>
+        <item>Часы Custom</item>
+        <item>Часы Custom 1</item>
+        <item>Часы Custom 2</item>
+        <item>Часы Custom 3</item>
+        <item>Часы MIUI</item>
+        <item>Часы IDE</item>
+        <item>Часы Lottie</item>
+        <item>Часы Lottie2</item>
+        <item>Часы Fluid</item>
+        <item>Часы Dualtone</item>
+        <item>Часы Dualtone2</item>
+        <item>Часы Stylish</item>
+        <item>Часы Sidebar</item>
+        <item>Часы Minimal</item>
+        <item>Часы Minimal2</item>
+        <item>Часы Minimal3</item>
+    </string-array>
+    <string-array name="nowplaying_icon_style_entries">
+        <item>Отключено</item>
+        <item>Значок приложения</item>
+        <item>Значок музыкальной ноты</item>
+    </string-array>
+    <string-array name="charging_animation_style_entries">
+        <item>Поток пузырьков</item>
+        <item>Неоновые брызги</item>
+        <item>Лучевые эффекты</item>
+        <item>Эффект плазмы</item>
+        <item>Квантовые искры</item>
+        <item>Рассеяние туманности</item>
+        <item>Цифровая матрица</item>
+        <item>Geoflow</item>
+    </string-array>
+    <string-array name="charging_color_mode_entries">
+        <item>Зелёный по умолчанию</item>
+        <item>Акцентный цвет</item>
+        <item>Радуга</item>
+    </string-array>
+    <string-array name="perapp_spoof_profile_labels">
+        <item>Black Shark 4 (China)</item>
+        <item>Poco F5</item>
+        <item>Samsung Galaxy S25 Ultra</item>
+        <item>Samsung Galaxy Z Fold 5</item>
+        <item>Honor Magic V2 RSR</item>
+        <item>Lenovo Legion Y700</item>
+        <item>Xiaomi 11T Pro</item>
+        <item>Xiaomi 13</item>
+        <item>Xiaomi 13 Pro</item>
+        <item>Xiaomi 14 Pro</item>
+        <item>OnePlus 12</item>
+        <item>OnePlus 13</item>
+        <item>Pixel 11 Pro XL</item>
+        <item>REDMAGIC 9 Pro</item>
+        <item>REDMAGIC 10 Pro</item>
+        <item>Realme 15 Pro 5G</item>
+        <item>ROG Phone 9 Pro</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="cutout_progress_finish_style_entries">
+        <item>Всплеск</item>
+        <item>Сегментный каскад</item>
+        <item>Скачок (мгновенно)</item>
+    </string-array>
+    <string-array name="cutout_progress_easing_entries">
+        <item>Линейная</item>
+        <item>Ускорение</item>
+        <item>Замедление</item>
+        <item>Плавное начало и конец</item>
+    </string-array>
+    <string-array name="cutout_progress_position_entries">
+        <item>Справа</item>
+        <item>Слева</item>
+        <item>Сверху</item>
+        <item>Снизу</item>
+        <item>Справа сверху</item>
+        <item>Слева сверху</item>
+        <item>Справа снизу</item>
+        <item>Слева снизу</item>
+    </string-array>
+    <string-array name="cutout_progress_truncate_entries">
+        <item>В середине</item>
+        <item>В начале</item>
+        <item>В конце</item>
+    </string-array>
+    <string-array name="lock_glymps_source_entries">
+        <item>Случайные обои (Picsum)</item>
+        <item>Список URL-адресов</item>
+        <item>Локальная папка</item>
+    </string-array>
+    <string-array name="lock_glymps_cache_size_entries">
+        <item>Обоев: 3 (~30 МБ)</item>
+        <item>Обоев: 5 (~50 МБ)</item>
+        <item>Обоев: 10 (~100 МБ)</item>
+    </string-array>
+    <string-array name="lock_glymps_change_on_entries">
+        <item>При включении экрана</item>
+        <item>При выключении экрана (рекомендуется)</item>
+        <item>По таймеру</item>
+    </string-array>
+    <string-array name="lock_glymps_timer_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+    </string-array>
+    <string-array name="playback_speed_entries">
+        <item>0,25x (очень медленно)</item>
+        <item>0,5x (медленно)</item>
+        <item>0,75x (чуть медленнее)</item>
+        <item>1,0x (обычная)</item>
+        <item>1,25x (чуть быстрее)</item>
+        <item>1,5x (быстро)</item>
+        <item>2,0x (очень быстро)</item>
+    </string-array>
+    <string-array name="quick_settings_data_usage_window_entries">
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+    </string-array>
+</resources>

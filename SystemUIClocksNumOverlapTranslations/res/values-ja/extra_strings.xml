@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_close_overlay_action">戻る</string>
+    <string name="accessibility_close_overlay_box_description">戻る</string>
+    <string name="manage_windows_icon_text">ウィンドウ %1$d を開く</string>
+    <string name="mtrl_button_collapsed_content_description">折りたたみ済み</string>
+    <string name="mtrl_button_expanded_content_description">展開済み</string>
+    <string name="mtrl_button_overflow_icon_content_description">その他のオプション</string>
+    <string name="nav_rail_collapsed_a11y_label">折りたたみ済み</string>
+    <string name="nav_rail_expanded_a11y_label">展開済み</string>
+</resources>

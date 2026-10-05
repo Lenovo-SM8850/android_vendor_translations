@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_close_overlay_action">返回</string>
+    <string name="accessibility_close_overlay_box_description">返回</string>
+    <string name="manage_windows_icon_text">開啟視窗 %1$d</string>
+    <string name="mtrl_button_collapsed_content_description">已收合</string>
+    <string name="mtrl_button_expanded_content_description">已展開</string>
+    <string name="mtrl_button_overflow_icon_content_description">溢位選單</string>
+    <string name="nav_rail_collapsed_a11y_label">已收合</string>
+    <string name="nav_rail_expanded_a11y_label">已展開</string>
+</resources>

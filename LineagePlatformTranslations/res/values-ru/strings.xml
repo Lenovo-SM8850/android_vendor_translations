@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="profileNameAutomobile">Автомобиль</string>
+    <string name="wildcardProfile">Другое</string>
+    <string name="live_display_hint">Функция \"Адаптивный экран\" поможет снизить зрительное напряжение и улучшить сон. Нажмите здесь, чтобы попробовать!</string>
+    <string name="accessibility_quick_settings_live_display_off">Адаптивный экран выключён.</string>
+    <string name="accessibility_quick_settings_live_display_auto">Адаптивный экран работает в автоматическом режиме.</string>
+    <string name="accessibility_quick_settings_live_display_day">Адаптивный экран работает в дневном режиме.</string>
+    <string name="accessibility_quick_settings_live_display_night">Адаптивный экран работает в ночном режиме.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">Адаптивный экран работает в режиме \"на улице\".</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">Адаптивный экран выключён.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">Адаптивный экран переключён в автоматический режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">Адаптивный экран переключён в дневной режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">Адаптивный экран переключён в ночной режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">Адаптивный экран переключён в режим \"на улице\".</string>
+    <string name="permlab_manageLiveDisplay">управление настройками адаптивного экрана</string>
+    <string name="permlab_manageRemotePrefs">управление удалёнными параметрами</string>
+    <string name="permdesc_manageRemotePrefs">Приложение сможет управлять удалёнными параметрами</string>
+    <string name="lineage_vendor_security_patch">Уровень исправлений безопасности от производителя</string>
+    <string name="kilobytespersecond_compact">к</string>
+    <string name="megabytespersecond_compact">мин</string>
+</resources>

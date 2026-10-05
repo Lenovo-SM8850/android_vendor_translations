@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="wifi_privacy_entries_ext">
+        <item>接続ごとにランダム化された MAC を使用（デフォルト）</item>
+        <item>ネットワークごとにランダム化された MAC を使用</item>
+        <item>デバイスの MAC を使用</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>指が動いていません</item>
+    </string-array>
+</resources>

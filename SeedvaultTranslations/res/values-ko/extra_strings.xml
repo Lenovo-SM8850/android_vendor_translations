@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="check_error_has_snapshots">백업 스냅샷 %1$d개를 찾았으며 일부가 손상되었거나 오류가 있습니다. 아래에 (부분적으로) 복원 가능한 백업이 표시됩니다.</string>
+    <string name="check_error_no_result">상세 결과가 유실되었습니다. 검사를 실행한 지 오래되었습니까? 다시 실행해 보세요.</string>
+    <string name="check_error_no_snapshots">백업을 찾을 수 없습니다. 먼저 백업을 성공적으로 실행한 후 다시 검사해 보세요.</string>
+    <string name="check_error_only_broken_snapshots">백업 스냅샷 %1$d개를 찾았으나 모두 손상되었습니다. 백업을 성공적으로 실행한 후 다시 검사해 보세요.</string>
+    <string name="check_error_snapshot">이 백업에 오류가 있습니다. 일부만 복원할 수 있습니다.</string>
+    <string name="check_files_error">백업 데이터가 손상되었습니다. 파일이 완전히 복원되지 않을 수 있습니다.</string>
+    <string name="check_files_text">\"%s\" 백업에 포함된 파일:</string>
+    <string name="check_files_title">이 백업의 파일</string>
+    <string name="check_success_intro">스냅샷 %1$d개를 찾았으며 데이터의 %2$d%%(%3$s)를 성공적으로 확인했습니다:</string>
+    <string name="content_remove">삭제</string>
+    <string name="mtrl_button_collapsed_content_description">접힘</string>
+    <string name="mtrl_button_expanded_content_description">펼쳐짐</string>
+    <string name="mtrl_button_overflow_icon_content_description">더보기 메뉴</string>
+    <string name="nav_rail_collapsed_a11y_label">접힘</string>
+    <string name="nav_rail_expanded_a11y_label">펼쳐짐</string>
+    <string name="notification_check_action">세부정보</string>
+    <string name="notification_check_channel_title">파일 백업 무결성 검사</string>
+    <string name="notification_check_error_text">자세히 보려면 탭하세요. 평균 %2$s 속도로 %1$s을(를) 검사했습니다.</string>
+    <string name="notification_check_error_title">파일 백업에서 오류 발견됨</string>
+    <string name="notification_check_finished_text">평균 %2$s 속도로 %1$s을(를) 검사했습니다.</string>
+    <string name="notification_check_finished_title">파일 백업 무결성이 확인됨</string>
+    <string name="notification_check_text">사용 가능한 백업 데이터를 가져오는 중.</string>
+    <string name="notification_check_title">파일 백업을 검사하는 중…</string>
+    <string name="notification_restore_complete_dups">%1$d개 파일이 중복되었습니다.</string>
+    <string name="notification_restore_complete_errors">%1$d개 파일에 오류가 있습니다.</string>
+    <string name="select_files_button_restore">선택한 파일 복원</string>
+    <string name="select_files_number_of_files">파일 %1$d개</string>
+    <string name="select_files_title">복원할 파일 검토</string>
+</resources>

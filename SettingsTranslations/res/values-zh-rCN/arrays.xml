@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="wifi_privacy_entries_ext">
+        <item>使用每个连接的随机 MAC（默认）</item>
+        <item>使用每个网络的随机 MAC</item>
+        <item>使用设备 MAC</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>指纹未移动</item>
+    </string-array>
+</resources>

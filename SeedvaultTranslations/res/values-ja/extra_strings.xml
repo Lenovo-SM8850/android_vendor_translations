@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="check_error_has_snapshots">%1$d 件のバックアップ スナップショットが見つかりましたが、一部は破損しているか、エラーがあります。以下は（一部）復元可能なバックアップです。</string>
+    <string name="check_error_no_result">詳細な結果が失われました。確認の実行から時間が経ちすぎていませんか？ もう一度実行してください。</string>
+    <string name="check_error_no_snapshots">バックアップが見つかりませんでした。先にバックアップを正常に実行してから、もう一度確認してください。</string>
+    <string name="check_error_only_broken_snapshots">%1$d 件のバックアップ スナップショットが見つかりましたが、すべて破損していました。バックアップを正常に実行してから、もう一度確認してください。</string>
+    <string name="check_error_snapshot">このバックアップにはエラーがあります。一部のみ復元できる場合があります。</string>
+    <string name="check_files_error">バックアップデータが破損しています。ファイルを完全に復元できません。</string>
+    <string name="check_files_text">「%s」には次のファイルが含まれています:</string>
+    <string name="check_files_title">このバックアップに含まれるファイル</string>
+    <string name="check_success_intro">%1$d 件のスナップショットが見つかり、そのデータの %2$d%%（%3$s）を正常に検証しました:</string>
+    <string name="content_remove">削除</string>
+    <string name="mtrl_button_collapsed_content_description">折りたたみ済み</string>
+    <string name="mtrl_button_expanded_content_description">展開済み</string>
+    <string name="mtrl_button_overflow_icon_content_description">その他のオプション</string>
+    <string name="nav_rail_collapsed_a11y_label">折りたたみ済み</string>
+    <string name="nav_rail_expanded_a11y_label">展開済み</string>
+    <string name="notification_check_action">詳細</string>
+    <string name="notification_check_channel_title">ファイルのバックアップの整合性チェック</string>
+    <string name="notification_check_error_text">タップして詳細を表示します。平均速度 %2$s で %1$s を確認しました。</string>
+    <string name="notification_check_error_title">ファイルのバックアップにエラーが見つかりました</string>
+    <string name="notification_check_finished_text">平均速度 %2$s で %1$s を確認しました。</string>
+    <string name="notification_check_finished_title">ファイルのバックアップの整合性を確認しました</string>
+    <string name="notification_check_text">利用可能なバックアップデータを取得しています。</string>
+    <string name="notification_check_title">ファイルのバックアップを確認しています…</string>
+    <string name="notification_restore_complete_dups">%1$d 個のファイルが重複していました。</string>
+    <string name="notification_restore_complete_errors">%1$d 個のファイルでエラーが発生しました。</string>
+    <string name="select_files_button_restore">選択したファイルを復元</string>
+    <string name="select_files_number_of_files">%1$d 個のファイル</string>
+    <string name="select_files_title">復元するファイルを確認</string>
+</resources>

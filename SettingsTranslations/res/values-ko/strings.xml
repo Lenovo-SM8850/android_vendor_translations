@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_finish_description_with_bp">이제 얼굴로 휴대전화를 잠금 해제하거나 앱 로그인, 구매 승인 등에서 본인임을 확인할 수 있습니다.</string>
+    <string name="security_settings_face_preference_summary_none">탭하여 얼굴 설정</string>
+    <string name="security_settings_face_enroll_education_message">다음 화면에서 얼굴의 모든 각도를 촬영할 수 있도록 고개를 돌리세요.</string>
+    <string name="security_settings_face_enroll_introduction_accessibility">시력 또는 머리 움직임이 제한된 경우 설정</string>
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">눈을 뜬 상태 필요</string>
+    <string name="security_settings_face_enroll_introduction_info_title">알아두기</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">안경 또는 옅은 색 선글라스는 괜찮습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">자녀가 평소 안경을 착용한다면 설정 중에도 착용할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_how_title">작동 방식</string>
+    <string name="security_settings_face_enroll_introduction_control_title">직접 관리할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_control_consent_title">보호자와 자녀가 직접 관리할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_error_generic_dialog_message">"얼굴 등록이 완료되지 않았습니다."</string>
+    <string name="security_settings_face_enroll_finish_title">완료되었습니다.</string>
+    <string name="security_settings_fingerprint_preference_title">지문 잠금 해제</string>
+    <string name="security_settings_work_fingerprint_preference_title">업무용 지문 잠금 해제</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">지문 잠금 해제 설정</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">지문 잠금 해제 허용</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">지문 잠금 해제는 본인 확인을 위해 고유한 지문 모델을 생성합니다. 설정하는 동안 지문 모델을 만들기 위해 여러 위치에서 지문을 촬영하게 됩니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">지문 잠금 해제는 자녀 본인 확인을 위해 고유한 지문 모델을 생성합니다. 설정하는 동안 지문 모델을 만들기 위해 여러 위치에서 지문을 촬영하게 됩니다.</string>
+    <string name="security_settings_fingerprint_bad_calibration">수리업체 또는 g.co/pixel/fingerprintunlock을 방문하세요.</string>
+    <string name="suggested_fingerprint_lock_settings_title">지문 잠금 해제 사용</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">패턴 • 지문</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN • 지문</string>
+    <string name="fingerprint_unlock_set_unlock_password">비밀번호 • 지문</string>
+    <string name="fingerprint_unlock_skip_fingerprint">지문 잠금 해제 없이 계속</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"화면 잠금이 없으면 기기 보호 기능이 작동하지 않습니다.
+
+기기에 저장된 지문 이미지와 모델도 삭제됩니다. 앱에서 지문 인증을 사용할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"화면 잠금이 없으면 기기 보호 기능이 작동하지 않습니다.
+
+기기에 저장된 지문 이미지와 모델이 삭제됩니다. 얼굴 모델도 영구적이고 안전하게 삭제됩니다. 앱에서 얼굴 또는 지문 인증을 사용할 수 없게 됩니다."</string>
+    <string name="main_clear_desc_also_erases_external"><li>음악</li>\n<li>사진</li>\n<li>기타 사용자 데이터</li></string>
+    <string name="main_clear_desc_also_erases_esim"><li>eSIM</li></string>
+    <string name="main_clear_desc_no_cancel_mobile_plan">\n\n모바일 서비스 요금제는 해지되지 않습니다.</string>
+    <string name="testing_sim_toolkit">SIM 툴킷</string>
+    <string name="power_audio">오디오</string>
+    <string name="power_video">동영상</string>
+    <string name="power_sensors">센서</string>
+    <string name="power_memory">메모리</string>
+    <string name="power_idle">휴대전화 유휴 상태</string>
+    <string name="cloned_apps_dashboard_title">복제된 앱</string>
+    <string name="memory_use_summary">최근 3시간 동안 평균 <xliff:g id="size" example="30MB">%1$s</xliff:g>의 메모리를 사용했습니다.</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion %d 이상에서 사용</string>
+    <string name="personal_context_title">매직 큐</string>
+    <string name="security_settings_face_enroll_education_message_accessibility">다음 화면에서 휴대전화를 눈높이에 맞춰 들기</string>
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded">얼굴 인식 잠금 해제를 사용할 때 머리가 휴대전화 정면을 더 정확히 향해야 할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_message">앱에 로그인하거나 구매를 승인할 때처럼 얼굴을 사용해 휴대전화를 잠금 해제하거나 본인임을 확인할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0">자녀가 얼굴로 휴대전화를 잠금 해제하도록 허용</string>
+    <string name="security_settings_face_enroll_introduction_consent_message">자녀의 얼굴을 사용해 휴대전화를 잠금 해제하는 것은 강력한 패턴이나 PIN보다 안전하지 않을 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_looking">의도하지 않아도 휴대전화를 보는 것만으로 잠금이 해제될 수 있습니다. 또한 일란성 쌍둥이처럼 매우 비슷하게 생긴 사람이 잠금을 해제하거나, 다른 사람이 휴대전화를 얼굴에 들이대도 잠금이 해제될 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_looking">의도하지 않아도 휴대전화를 보는 것만으로 잠금이 해제될 수 있습니다. 또한 일란성 쌍둥이처럼 매우 비슷하게 생긴 사람이 잠금을 해제하거나, 다른 사람이 휴대전화를 자녀의 얼굴에 들이대도 잠금이 해제될 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure">자녀의 얼굴을 사용해 휴대전화를 잠금 해제하는 것은 강력한 패턴, PIN 또는 비밀번호보다 안전하지 않을 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_less_secure">얼굴을 사용해 휴대전화를 잠금 해제하는 것은 강력한 패턴, PIN 또는 비밀번호보다 안전하지 않을 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_gaze">얼굴 인식 잠금 해제에서 눈을 뜨고 있어야 휴대전화를 잠금 해제하거나 본인 확인을 하도록 요구할 수 있습니다. 설정에서 언제든지 이 옵션을 켤 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze">얼굴 인식 잠금 해제에서 자녀가 눈을 뜨고 있어야 휴대전화를 잠금 해제하거나 본인 확인을 하도록 요구할 수 있습니다. 보호자와 자녀는 설정에서 언제든지 이 옵션을 켤 수 있습니다.</string>
+    <string name="security_settings_face_enroll_introduction_how_message">"얼굴 인식 잠금 해제는 본인임을 확인하기 위해 사용자 얼굴의 고유한 모델을 생성합니다. 설정 중에 이 얼굴 모델을 만들기 위해 여러 각도에서 얼굴 이미지를 촬영합니다.\n\n얼굴 인식 잠금 해제를 사용할 때 이미지가 얼굴 모델 업데이트에 사용됩니다. 얼굴 모델 생성에 사용된 이미지는 저장되지 않지만 얼굴 모델은 휴대전화에 안전하게 저장되며 휴대전화를 벗어나지 않습니다. 모든 처리는 휴대전화에서 안전하게 이루어집니다."</string>
+    <string name="security_settings_face_enroll_introduction_how_consent_message">"얼굴 인식 잠금 해제는 자녀임을 확인하기 위해 자녀 얼굴의 고유한 모델을 생성합니다. 설정 중에 이 얼굴 모델을 만들기 위해 자녀가 여러 각도에서 얼굴 이미지를 촬영합니다.\n\n얼굴 인식 잠금 해제를 사용할 때 이미지가 얼굴 모델 업데이트에 사용됩니다. 얼굴 모델 생성에 사용된 이미지는 저장되지 않지만 얼굴 모델은 휴대전화에 안전하게 저장되며 휴대전화를 벗어나지 않습니다. 모든 처리는 휴대전화에서 안전하게 이루어집니다."</string>
+    <string name="security_settings_face_enroll_introduction_control_message">"설정에서 언제든지 얼굴 모델을 삭제하거나 얼굴 인식 잠금 해제를 끌 수 있습니다. 얼굴 모델은 삭제할 때까지 휴대전화에 저장됩니다.\n\ng.co/pixel/faceunlock에서 자세히 알아보기."</string>
+    <string name="security_settings_face_enroll_introduction_control_consent_message">"보호자와 자녀는 설정에서 언제든지 얼굴 모델을 삭제하거나 얼굴 인식 잠금 해제를 끌 수 있습니다. 얼굴 모델은 삭제될 때까지 휴대전화에 저장됩니다.\n\ng.co/pixel/faceunlock에서 자세히 알아보기."</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"얼굴을 사용해 휴대전화를 잠금 해제하거나 구매를 승인할 수 있습니다.\n\n참고: 이 기기에서는 얼굴로 잠금을 해제할 수 없습니다. 자세한 내용은 조직의 관리자에게 문의하세요."</string>
+    <string name="security_settings_face_enroll_introduction_message_setup">얼굴로 휴대전화 잠금 해제, 구매 승인 또는 앱 로그인</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴 인식 잠금 해제를 다시 설정하려면 현재 얼굴 모델을 삭제해야 합니다.\n\n얼굴 모델은 안전하게 영구 삭제됩니다.\n\n삭제 후에는 PIN, 패턴 또는 비밀번호로 휴대전화를 잠금 해제하거나 앱에서 인증해야 합니다."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"얼굴 인식 잠금 해제를 다시 설정하려면 현재 얼굴 모델을 삭제해야 합니다.\n\n얼굴 모델은 안전하게 영구 삭제됩니다.\n\n삭제 후에는 지문, PIN, 패턴 또는 비밀번호로 휴대전화를 잠금 해제하거나 앱에서 인증해야 합니다."</string>
+    <string name="security_settings_face_settings_require_attention_details">휴대전화를 잠금 해제하려면 눈을 뜨고 있어야 합니다.</string>
+    <string name="security_settings_face_settings_remove_dialog_details">"얼굴 모델은 안전하게 영구 삭제됩니다.\n\n삭제 후에는 PIN, 패턴 또는 비밀번호로 휴대전화를 잠금 해제하거나 앱에서 인증해야 합니다."</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience">"얼굴 모델은 안전하게 영구 삭제됩니다.\n\n삭제 후에는 PIN, 패턴 또는 비밀번호로 휴대전화를 잠금 해제해야 합니다."</string>
+    <string name="security_settings_face_settings_context_subtitle">얼굴 인식 잠금 해제로 휴대전화 잠금 해제</string>
+    <string name="security_settings_face_settings_footer">"얼굴을 사용해 휴대전화를 잠금 해제하거나 로그인 또는 구매 승인 시 앱에서 인증할 수 있습니다.\n\n참고:\n한 번에 하나의 얼굴만 설정할 수 있습니다. 다른 얼굴을 추가하려면 현재 얼굴을 삭제하세요.\n\n의도하지 않아도 휴대전화를 보는 것만으로 잠금이 해제될 수 있습니다.\n\n다른 사람이 휴대전화를 얼굴에 들이대면 잠금이 해제될 수 있습니다.\n\n일란성 쌍둥이처럼 매우 비슷하게 생긴 사람이 휴대전화 잠금을 해제할 수 있습니다."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴을 사용해 휴대전화를 잠금 해제하거나 로그인 또는 구매 승인 시 앱에서 인증할 수 있습니다.\n\n참고:\n한 번에 하나의 얼굴만 설정할 수 있습니다. 다른 얼굴을 추가하려면 현재 얼굴을 삭제하세요.\n\n의도하지 않아도 휴대전화를 보는 것만으로 잠금이 해제될 수 있습니다.\n\n눈을 감고 있어도 다른 사람이 휴대전화를 얼굴에 들이대면 잠금이 해제될 수 있습니다.\n\n일란성 쌍둥이처럼 매우 비슷하게 생긴 사람이 휴대전화 잠금을 해제할 수 있습니다."</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">지문 잠금 해제를 사용하면 이미지가 지문 모델 업데이트에 사용됩니다. 지문 이미지와 모델은 휴대전화에 안전하게 저장되며 휴대전화를 떠나지 않습니다. 모든 처리는 휴대전화에서 안전하게 이루어집니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">자녀가 지문 잠금 해제를 사용하면 이미지가 지문 모델 업데이트에 사용됩니다. 자녀의 지문 이미지와 모델은 휴대전화에 안전하게 저장되며 휴대전화를 떠나지 않습니다. 모든 처리는 휴대전화에서 안전하게 이루어집니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">설정에서 언제든지 지문 이미지와 모델을 삭제하거나 지문 잠금 해제를 끌 수 있습니다. 지문 이미지와 모델은 삭제할 때까지 휴대전화에 저장됩니다.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">본인과 자녀는 설정에서 언제든지 지문 이미지와 모델을 삭제하거나 지문 잠금 해제를 끌 수 있습니다. 지문 이미지와 모델은 삭제될 때까지 휴대전화에 저장됩니다.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"패턴은 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델도 삭제됩니다. 앱에서 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"패턴은 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델을 삭제합니다. 얼굴 모델도 영구적으로 안전하게 삭제됩니다. 앱에서 얼굴 또는 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN은 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델도 삭제됩니다. 앱에서 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN은 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델을 삭제합니다. 얼굴 모델도 영구적으로 안전하게 삭제됩니다. 앱에서 얼굴 또는 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"비밀번호는 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델도 삭제됩니다. 앱에서 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"비밀번호는 휴대전화 분실 또는 도난 시 휴대전화를 보호합니다.
+
+기기에 저장된 지문 이미지와 모델을 삭제합니다. 얼굴 모델도 영구적으로 안전하게 삭제됩니다. 앱에서 얼굴 또는 지문으로 인증할 수 없게 됩니다."</string>
+    <string name="fingerprint_unlock_title">지문 잠금 해제를 사용하면 지문으로 휴대전화 잠금을 해제할 수 있습니다. 보안을 위해 이 옵션에는 백업 화면 잠금이 필요합니다.</string>
+    <string name="security_settings_face_enroll_consent_introduction_title">얼굴 인식 잠금 해제 허용</string>
+    <string name="security_settings_face_enroll_introduction_title">얼굴 인식 잠금 해제 설정</string>
+    <string name="security_settings_face_preference_title">얼굴 인식 잠금 해제</string>
+    <string name="security_settings_face_profile_preference_title">직장용 얼굴 인식 잠금 해제</string>
+    <string name="security_settings_face_enroll_education_title">얼굴 인식 잠금 해제 설정 방법</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">얼굴 인식 잠금 해제 설정</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">접근성 얼굴 인식 잠금 해제가 꺼져 있으면 일부 설정 단계가 TalkBack에서 제대로 작동하지 않을 수 있습니다.</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title">얼굴 인식 잠금 해제 성능 개선</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle">얼굴 인식 잠금 해제 다시 설정</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title">얼굴 인식 잠금 해제 다시 설정</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title">얼굴 인식 잠금 해제 설정</string>
+    <string name="security_settings_face_settings_use_face_category">얼굴 인식 잠금 해제 용도</string>
+    <string name="security_settings_face_settings_preferences_category">얼굴 인식 잠금 해제 사용 시</string>
+    <string name="security_settings_face_settings_require_confirmation_details">앱에서 얼굴 인식 잠금 해제를 사용할 때 항상 확인 단계를 거치도록 요구</string>
+    <string name="security_settings_face_settings_enroll">얼굴 인식 잠금 해제 설정</string>
+    <string name="color_mode_option_vibrant_canoe">선명</string>
+    <string name="color_mode_option_standard_canoe">표준</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">지문 잠금 해제는 휴대전화 잠금 해제 또는 앱에서 본인 인증에 사용할수록 개선됩니다.</string>
+    <string name="security_settings_face_enroll_error_timeout_dialog_title">얼굴 인식 잠금 해제 설정 시간이 초과됨</string>
+    <string name="security_settings_face_enroll_finish_description_without_bp">"이제 휴대전화를 들어 올리거나 화면을 탭하면 얼굴로 잠금을 해제할 수 있습니다.\n\n얼굴 인식 잠금 해제는 조명이 충분하고 마스크나 진한 색안경을 착용하지 않았을 때 가장 잘 작동합니다."</string>
+    <string name="security_settings_face_enroll_next">다음</string>
+    <string name="security_settings_face_enroll_partial_message">성능을 개선하려면 설정에서 얼굴 인식 잠금 해제를 다시 설정할 수 있습니다.</string>
+    <string name="security_settings_face_enroll_partial_start_over">처음부터 다시 시작</string>
+    <string name="security_settings_face_enroll_partial_title">얼굴 인식 잠금 해제 설정 완료됨</string>
+    <string name="security_settings_face_enroll_timeout_message">"대신 빠른 설정을 시도해 보세요. 얼굴 인식 잠금 해제를 사용할 때 머리가 휴대전화 정면을 더 정확히 향해야 할 수 있습니다.\n\n성능을 개선하려면 설정에서 얼굴 인식 잠금 해제를 다시 설정할 수 있습니다."</string>
+    <string name="security_settings_face_enroll_timeout_title">설정을 계속할 수 없음</string>
+    <string name="security_settings_face_enroll_timeout_try_again">다시 시도</string>
+    <string name="security_settings_face_enroll_timeout_use_fast_setup">빠른 설정 사용</string>
+    <string name="security_settings_face_enroll_too_hot_exit_setup">설정 종료</string>
+    <string name="security_settings_face_enroll_too_hot_message">휴대전화가 너무 뜨거워 얼굴 인식 잠금 해제 설정을 완료할 수 없습니다. 휴대전화가 식으면 나중에 다시 시도해 주세요.</string>
+    <string name="security_settings_face_enroll_too_hot_skip_face_unlock">얼굴 인식 잠금 해제 건너뛰기</string>
+    <string name="security_settings_face_enroll_too_hot_title">휴대전화가 너무 뜨거움</string>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="app_lock_relock_behavior_entries">
+        <item>逾時後</item>
+        <item>螢幕關閉時</item>
+    </string-array>
+    <string-array name="app_lock_grace_period_entries">
+        <item>立即</item>
+        <item>5 秒</item>
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>5 分鐘</item>
+    </string-array>
+    <string-array name="themes_boot_animation_entries">
+        <item>Evolution X</item>
+        <item>Evolution X (揭示)</item>
+        <item>AOKP</item>
+        <item>CyanogenMod</item>
+        <item>ctOS</item>
+        <item>Cyberpunk</item>
+        <item>Dirty Unicorns</item>
+        <item>Google</item>
+        <item>Google (Monet)</item>
+        <item>PAC-ROM</item>
+        <item>Resurrection Remix</item>
+        <item>SlimRoms</item>
+        <item>Valorant</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="wallpaper_effect_entries">
+        <item>無</item>
+        <item>模糊顆粒</item>
+        <item>色差</item>
+        <item>暈影</item>
+        <item>像素化</item>
+        <item>飽和度</item>
+        <item>棕褐色調</item>
+        <item>銳化</item>
+        <item>灰階</item>
+        <item>負片</item>
+        <item>放射狀模糊</item>
+        <item>色調分離</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>預設</item>
+        <item>時鐘 OOS</item>
+        <item>時鐘 IOS</item>
+        <item>時鐘 COS</item>
+        <item>自訂時鐘</item>
+        <item>自訂時鐘 1</item>
+        <item>自訂時鐘 2</item>
+        <item>自訂時鐘 3</item>
+        <item>時鐘 MIUI</item>
+        <item>時鐘 IDE</item>
+        <item>時鐘 Lottie</item>
+        <item>時鐘 Lottie2</item>
+        <item>時鐘 Fluid</item>
+        <item>時鐘 Dualtone</item>
+        <item>時鐘 Dualtone2</item>
+        <item>時鐘 Stylish</item>
+        <item>時鐘 Sidebar</item>
+        <item>時鐘 Minimal</item>
+        <item>時鐘 Minimal2</item>
+        <item>時鐘 Minimal3</item>
+    </string-array>
+    <string-array name="nowplaying_icon_style_entries">
+        <item>已停用</item>
+        <item>應用程式圖示</item>
+        <item>音符圖示</item>
+    </string-array>
+    <string-array name="charging_animation_style_entries">
+        <item>泡泡流</item>
+        <item>霓虹光暈噴霧</item>
+        <item>光束效果</item>
+        <item>電漿效果</item>
+        <item>量子火花</item>
+        <item>星雲擴散</item>
+        <item>數位矩陣</item>
+        <item>Geoflow</item>
+    </string-array>
+    <string-array name="charging_color_mode_entries">
+        <item>預設綠色</item>
+        <item>強調色</item>
+        <item>彩虹</item>
+    </string-array>
+    <string-array name="perapp_spoof_profile_labels">
+        <item>Black Shark 4 (China)</item>
+        <item>Poco F5</item>
+        <item>Samsung Galaxy S25 Ultra</item>
+        <item>Samsung Galaxy Z Fold 5</item>
+        <item>Honor Magic V2 RSR</item>
+        <item>Lenovo Legion Y700</item>
+        <item>Xiaomi 11T Pro</item>
+        <item>Xiaomi 13</item>
+        <item>Xiaomi 13 Pro</item>
+        <item>Xiaomi 14 Pro</item>
+        <item>OnePlus 12</item>
+        <item>OnePlus 13</item>
+        <item>Pixel 11 Pro XL</item>
+        <item>REDMAGIC 9 Pro</item>
+        <item>REDMAGIC 10 Pro</item>
+        <item>Realme 15 Pro 5G</item>
+        <item>ROG Phone 9 Pro</item>
+        <item>無</item>
+    </string-array>
+    <string-array name="cutout_progress_finish_style_entries">
+        <item>彈跳</item>
+        <item>分段串接</item>
+        <item>瞬間切換 (立即)</item>
+    </string-array>
+    <string-array name="cutout_progress_easing_entries">
+        <item>線性</item>
+        <item>加速</item>
+        <item>減速</item>
+        <item>緩入緩出</item>
+    </string-array>
+    <string-array name="cutout_progress_position_entries">
+        <item>右側</item>
+        <item>左側</item>
+        <item>頂部</item>
+        <item>底部</item>
+        <item>右上角</item>
+        <item>左上角</item>
+        <item>右下角</item>
+        <item>左下角</item>
+    </string-array>
+    <string-array name="cutout_progress_truncate_entries">
+        <item>中間</item>
+        <item>開頭</item>
+        <item>結尾</item>
+    </string-array>
+    <string-array name="lock_glymps_source_entries">
+        <item>隨機桌布 (Picsum)</item>
+        <item>自訂網址清單</item>
+        <item>本機資料夾</item>
+    </string-array>
+    <string-array name="lock_glymps_cache_size_entries">
+        <item>3 張桌布 (約 30MB)</item>
+        <item>5 張桌布 (約 50MB)</item>
+        <item>10 張桌布 (約 100MB)</item>
+    </string-array>
+    <string-array name="lock_glymps_change_on_entries">
+        <item>螢幕開啟時</item>
+        <item>螢幕關閉時 (建議)</item>
+        <item>依計時器</item>
+    </string-array>
+    <string-array name="lock_glymps_timer_entries">
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>6 小時</item>
+        <item>12 小時</item>
+        <item>24 小時</item>
+    </string-array>
+    <string-array name="playback_speed_entries">
+        <item>0.25 倍 (非常慢)</item>
+        <item>0.5 倍 (慢)</item>
+        <item>0.75 倍 (稍慢)</item>
+        <item>1.0 倍 (正常)</item>
+        <item>1.25 倍 (稍快)</item>
+        <item>1.5 倍 (快)</item>
+        <item>2.0 倍 (非常快)</item>
+    </string-array>
+    <string-array name="quick_settings_data_usage_window_entries">
+        <item>每日</item>
+        <item>每週</item>
+    </string-array>
+</resources>

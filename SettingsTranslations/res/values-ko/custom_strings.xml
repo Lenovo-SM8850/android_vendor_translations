@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="advanced_vpn_preference_group_title">내장</string>
+    <string name="vpn_preference_group_title">기타</string>
+</resources>

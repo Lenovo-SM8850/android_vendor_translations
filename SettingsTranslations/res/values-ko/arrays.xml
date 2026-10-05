@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="when_to_start_screensaver_values_no_battery">
+        <item>while_charging_only</item>
+        <item>while_postured_only</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries_ext">
+        <item>연결별 임의 MAC 사용(기본값)</item>
+        <item>네트워크별 임의 MAC 사용</item>
+        <item>기기 MAC 사용</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>지정 안 함</item>
+        <item>중성</item>
+        <item>여성</item>
+        <item>남성</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>손가락이 움직이지 않음</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sidebar_summary">在浮動視窗中快速開啟應用程式</string>
+    <string name="sidebar_app_setting_label">已固定的應用程式</string>
+    <string name="sidebar_settings_description">開啟側邊欄設定</string>
+    <string name="sidebar_predicted_apps_summary">在已固定的應用程式下方，最多顯示 6 個建議的應用程式</string>
+    <string name="sidebar_auto_enable_selected_apps">為所選應用程式自動啟用側邊欄</string>
+    <string name="sidebar_auto_enable_selected_apps_summary">啟動已設定的應用程式時，自動顯示側邊欄</string>
+    <string name="sidebar_per_app_config_summary">選取要自動啟用側邊欄的應用程式</string>
+    <string name="sidebar_section_layout">版面配置設定</string>
+    <string name="sidebar_section_miscellaneous">其他</string>
+    <string name="sidebar_transparency_value">滑桿透明度：%1$.2f</string>
+    <string name="sidebar_length_value">滑桿長度：%1$d</string>
+    <string name="sidebar_width_value">滑桿寬度：%1$d</string>
+    <string name="sidebar_position_label">滑桿位置</string>
+    <string name="sidebar_icon_size_value">圖示大小：%1$d dp</string>
+    <string name="sidebar_icon_padding_value">圖示內邊距：%1$d dp</string>
+    <string name="sidebar_icon_padding_summary">每個圖示周圍的間距</string>
+    <string name="sidebar_column_spacing_value">欄間距：%1$d dp</string>
+    <string name="sidebar_column_spacing_summary">欄與欄之間的間距</string>
+    <string name="sidebar_corner_radius_value">轉角弧度：%1$d dp</string>
+    <string name="sidebar_bg_transparency_value">背景透明度：%1$.2f</string>
+    <string name="sidebar_drop_shadow_summary">為側邊欄加入陰影效果</string>
+    <string name="sidebar_tap_to_open_title">輕觸時開啟抽屜</string>
+    <string name="sidebar_tap_to_open_summary">輕觸滑桿時開啟側邊欄抽屜</string>
+    <string name="sidebar_swipe_to_open_title">滑動時開啟抽屜</string>
+    <string name="sidebar_swipe_to_open_summary">水平滑動滑桿時開啟側邊欄抽屜</string>
+    <string name="sidebar_hide_on_gamespace_title">遊戲空間啟用時隱藏</string>
+    <string name="sidebar_hide_on_gamespace_summary">使用遊戲空間執行遊戲時，自動隱藏側邊欄滑桿</string>
+    <plurals name="sidebar_columns_value">
+        <item quantity="other">%1$d 欄</item>
+    </plurals>
+</resources>

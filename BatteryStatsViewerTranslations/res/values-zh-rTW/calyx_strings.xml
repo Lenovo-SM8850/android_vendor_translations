@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">電池統計資料檢視器</string>
+    <string name="header">電池統計資料</string>
+    <string name="display_dashboard_summary">查看詳細的電池用量統計資料</string>
+</resources>

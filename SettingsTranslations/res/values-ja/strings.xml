@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_finish_description_with_bp">顔を使ってスマートフォンのロックを解除したり、アプリへのログインや購入の承認時に本人確認をしたりできるようになりました</string>
+    <string name="security_settings_face_preference_summary_none">タップして顔認証を設定</string>
+    <string name="security_settings_face_enroll_education_message">次の画面で頭を回転させ、顔のあらゆる角度を撮影します</string>
+    <string name="security_settings_face_enroll_introduction_accessibility">視覚や頭の動きに制限がある方向けの設定</string>
+    <string name="security_settings_face_enroll_introduction_accessibility_vision">目を開けることを必須にする</string>
+    <string name="security_settings_face_enroll_introduction_info_title">ご注意ください</string>
+    <string name="security_settings_face_enroll_introduction_info_glasses">メガネや薄い色のサングラスは使用できます。</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_glasses">お子様が普段メガネをかけている場合は、設定中もかけたままで構いません。</string>
+    <string name="security_settings_face_enroll_introduction_how_title">仕組み</string>
+    <string name="security_settings_face_enroll_introduction_control_title">コントロールはあなた次第です</string>
+    <string name="security_settings_face_enroll_introduction_control_consent_title">お客様とお子様がコントロールできます</string>
+    <string name="power_audio">オーディオ</string>
+    <string name="power_video">動画</string>
+    <string name="power_sensors">センサー</string>
+    <string name="power_memory">メモリ</string>
+    <string name="power_idle">スマートフォン待機中</string>
+    <string name="memory_use_summary">過去 3 時間の平均メモリ使用量: <xliff:g id="size" example="30MB">%1$s</xliff:g></string>
+    <string name="security_settings_face_enroll_education_message_accessibility">次の画面で、スマートフォンを目の高さに持ってください</string>
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded">顔認証を使用する際は、顔をスマートフォンの正面により正確に向ける必要がある場合があります。</string>
+    <string name="security_settings_face_enroll_introduction_message">顔認証を使って、スマートフォンのロックを解除したり、アプリへのログインや購入の承認などの本人確認を行ったりできます。</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0">お子様が顔認証でスマートフォンのロックを解除することを許可します</string>
+    <string name="security_settings_face_enroll_introduction_consent_message">お子様の顔でスマートフォンのロックを解除する方法は、複雑なパターンや PIN よりも安全性が低い可能性があります。</string>
+    <string name="security_settings_face_enroll_introduction_info_looking">意図していなくても、スマートフォンを見るだけでロックが解除されることがあります。また、双子のきょうだいなどあなたによく似た人や、あなたの顔にスマートフォンをかざされた場合にも、ロックが解除される可能性があります。</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_looking">お子様にその意思がなくても、スマートフォンを見るだけでロックが解除されることがあります。また、双子のきょうだいなどお子様によく似た人や、お子様の顔にスマートフォンをかざされた場合にも、ロックが解除される可能性があります。</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure">お子様の顔でスマートフォンのロックを解除する方法は、複雑なパターン、PIN、パスワードよりも安全性が低い可能性があります</string>
+    <string name="security_settings_face_enroll_introduction_info_less_secure">顔でスマートフォンのロックを解除する方法は、複雑なパターン、PIN、パスワードよりも安全性が低い可能性があります</string>
+    <string name="security_settings_face_enroll_introduction_info_gaze">顔認証では、スマートフォンのロック解除や本人確認の際に、目が開いていることを必須にできます。このオプションは、設定でいつでも ON にできます。</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze">顔認証では、スマートフォンのロック解除や本人確認の際に、お子様の目が開いていることを必須にできます。このオプションは、お客様とお子様が設定でいつでも ON にできます。</string>
+    <string name="security_settings_face_enroll_introduction_how_message">"顔認証では、ご自身の顔の固有のモデルを作成して、本人であることを確認します。設定中にこの顔モデルを作成するために、さまざまな角度から顔の画像を撮影します。
+
+顔認証を使用すると、画像が顔モデルの更新に使用されます。顔モデルの作成に使用された画像は保存されませんが、顔モデルはスマートフォンに安全に保存され、スマートフォンの外に出ることはありません。すべての処理はスマートフォン上で安全に行われます。"</string>
+    <string name="security_settings_face_enroll_introduction_how_consent_message">"顔認証では、お子様の顔の固有のモデルを作成して、本人であることを確認します。設定中にこの顔モデルを作成するために、お子様はさまざまな角度から顔の画像を撮影します。
+
+顔認証を使用すると、画像が顔モデルの更新に使用されます。顔モデルの作成に使用された画像は保存されませんが、顔モデルはスマートフォンに安全に保存され、スマートフォンの外に出ることはありません。すべての処理はスマートフォン上で安全に行われます。"</string>
+    <string name="security_settings_face_enroll_introduction_control_message">"設定でいつでも顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されます。
+
+詳しくは、g.co/pixel/faceunlock をご覧ください。"</string>
+    <string name="security_settings_face_enroll_introduction_control_consent_message">"お客様とお子様は、設定でいつでも顔モデルを削除したり、顔認証を OFF にしたりできます。顔モデルは、削除するまでスマートフォンに保存されます。
+
+詳しくは、g.co/pixel/faceunlock をご覧ください。"</string>
+    <string name="security_settings_face_settings_footer">"顔を使って、スマートフォンのロックを解除したり、ログインや購入の承認など、アプリでの認証を行ったりできます。
+
+ご注意:
+一度に設定できる顔は 1 つのみです。別の顔を追加するには、現在の顔を削除してください。
+
+意図していなくても、スマートフォンを見るだけでロックが解除されることがあります。
+
+スマートフォンを顔にかざされると、他の人にロックを解除される可能性があります。
+
+双子のきょうだいなど、あなたによく似た人にもロックを解除される可能性があります。"</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"顔を使って、スマートフォンのロックを解除したり、ログインや購入の承認など、アプリでの認証を行ったりできます。
+
+ご注意:
+一度に設定できる顔は 1 つのみです。別の顔を追加するには、現在の顔を削除してください。
+
+意図していなくても、スマートフォンを見るだけでロックが解除されることがあります。
+
+目を閉じていても、スマートフォンを顔にかざされると、他の人にロックを解除される可能性があります。
+
+双子のきょうだいなど、あなたによく似た人にもロックを解除される可能性があります。"</string>
+    <string name="security_settings_face_enroll_consent_introduction_title">顔認証を許可</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">ユーザー補助の顔認証が OFF の場合、一部の設定手順が TalkBack で正しく動作しないことがあります。</string>
+    <string name="color_mode_option_vibrant_canoe">ビビッド</string>
+    <string name="color_mode_option_standard_canoe">標準</string>
+</resources>

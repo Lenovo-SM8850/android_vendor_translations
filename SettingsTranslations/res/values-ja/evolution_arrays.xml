@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="app_lock_relock_behavior_entries">
+        <item>タイムアウト後</item>
+        <item>画面が OFF になったとき</item>
+    </string-array>
+    <string-array name="app_lock_grace_period_entries">
+        <item>すぐに</item>
+        <item>5 秒</item>
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分</item>
+        <item>5 分</item>
+    </string-array>
+    <string-array name="themes_boot_animation_entries">
+        <item>Evolution X</item>
+        <item>Evolution X（リビール）</item>
+        <item>AOKP</item>
+        <item>CyanogenMod</item>
+        <item>ctOS</item>
+        <item>サイバーパンク</item>
+        <item>Dirty Unicorns</item>
+        <item>Google</item>
+        <item>Google（Monet）</item>
+        <item>PAC-ROM</item>
+        <item>Resurrection Remix</item>
+        <item>SlimRoms</item>
+        <item>Valorant</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="wallpaper_effect_entries">
+        <item>なし</item>
+        <item>ぼかしとグレイン</item>
+        <item>色収差</item>
+        <item>ビネット</item>
+        <item>ピクセル化</item>
+        <item>彩度</item>
+        <item>セピア</item>
+        <item>シャープ</item>
+        <item>グレースケール</item>
+        <item>ネガ</item>
+        <item>放射ブラー</item>
+        <item>ポスタライズ</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>デフォルト</item>
+        <item>時計 OOS</item>
+        <item>時計 IOS</item>
+        <item>時計 COS</item>
+        <item>時計 カスタム</item>
+        <item>時計 カスタム 1</item>
+        <item>時計 カスタム 2</item>
+        <item>時計 カスタム 3</item>
+        <item>時計 MIUI</item>
+        <item>時計 IDE</item>
+        <item>時計 Lottie</item>
+        <item>時計 Lottie2</item>
+        <item>時計 フルイド</item>
+        <item>時計 デュアルトーン</item>
+        <item>時計 デュアルトーン 2</item>
+        <item>時計 スタイリッシュ</item>
+        <item>時計 サイドバー</item>
+        <item>時計 ミニマル</item>
+        <item>時計 ミニマル 2</item>
+        <item>時計 ミニマル 3</item>
+    </string-array>
+    <string-array name="nowplaying_icon_style_entries">
+        <item>無効</item>
+        <item>アプリのアイコン</item>
+        <item>音符アイコン</item>
+    </string-array>
+    <string-array name="charging_animation_style_entries">
+        <item>バブル ストリーム</item>
+        <item>ネオングロー スプレー</item>
+        <item>ビーム エフェクト</item>
+        <item>プラズマ エフェクト</item>
+        <item>クォンタム スパーク</item>
+        <item>ネビュラ ディフュージョン</item>
+        <item>デジタル マトリックス</item>
+        <item>ジオフロー</item>
+    </string-array>
+    <string-array name="charging_color_mode_entries">
+        <item>デフォルトのグリーン</item>
+        <item>アクセントカラー</item>
+        <item>レインボー</item>
+    </string-array>
+    <string-array name="perapp_spoof_profile_labels">
+        <item>Black Shark 4 (China)</item>
+        <item>Poco F5</item>
+        <item>Samsung Galaxy S25 Ultra</item>
+        <item>Samsung Galaxy Z Fold 5</item>
+        <item>Honor Magic V2 RSR</item>
+        <item>Lenovo Legion Y700</item>
+        <item>Xiaomi 11T Pro</item>
+        <item>Xiaomi 13</item>
+        <item>Xiaomi 13 Pro</item>
+        <item>Xiaomi 14 Pro</item>
+        <item>OnePlus 12</item>
+        <item>OnePlus 13</item>
+        <item>Pixel 11 Pro XL</item>
+        <item>REDMAGIC 9 Pro</item>
+        <item>REDMAGIC 10 Pro</item>
+        <item>Realme 15 Pro 5G</item>
+        <item>ROG Phone 9 Pro</item>
+        <item>なし</item>
+    </string-array>
+    <string-array name="cutout_progress_finish_style_entries">
+        <item>ポップ</item>
+        <item>分割カスケード</item>
+        <item>スナップ（瞬時）</item>
+    </string-array>
+    <string-array name="cutout_progress_easing_entries">
+        <item>リニア</item>
+        <item>加速</item>
+        <item>減速</item>
+        <item>イーズイン・イーズアウト</item>
+    </string-array>
+    <string-array name="cutout_progress_position_entries">
+        <item>右</item>
+        <item>左</item>
+        <item>上</item>
+        <item>下</item>
+        <item>右上</item>
+        <item>左上</item>
+        <item>右下</item>
+        <item>左下</item>
+    </string-array>
+    <string-array name="cutout_progress_truncate_entries">
+        <item>中央</item>
+        <item>先頭</item>
+        <item>末尾</item>
+    </string-array>
+    <string-array name="lock_glymps_source_entries">
+        <item>ランダムな壁紙（Picsum）</item>
+        <item>カスタム URL リスト</item>
+        <item>ローカルフォルダ</item>
+    </string-array>
+    <string-array name="lock_glymps_cache_size_entries">
+        <item>壁紙 3 枚（約 30 MB）</item>
+        <item>壁紙 5 枚（約 50 MB）</item>
+        <item>壁紙 10 枚（約 100 MB）</item>
+    </string-array>
+    <string-array name="lock_glymps_change_on_entries">
+        <item>画面が ON になったとき</item>
+        <item>画面が OFF になったとき（おすすめ）</item>
+        <item>タイマー</item>
+    </string-array>
+    <string-array name="lock_glymps_timer_entries">
+        <item>5 分</item>
+        <item>10 分</item>
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>1 時間</item>
+        <item>2 時間</item>
+        <item>3 時間</item>
+        <item>6 時間</item>
+        <item>12 時間</item>
+        <item>24 時間</item>
+    </string-array>
+    <string-array name="playback_speed_entries">
+        <item>0.25 倍（非常に遅い）</item>
+        <item>0.5 倍（遅い）</item>
+        <item>0.75 倍（やや遅い）</item>
+        <item>1.0 倍（標準）</item>
+        <item>1.25 倍（やや速い）</item>
+        <item>1.5 倍（速い）</item>
+        <item>2.0 倍（非常に速い）</item>
+    </string-array>
+    <string-array name="quick_settings_data_usage_window_entries">
+        <item>毎日</item>
+        <item>毎週</item>
+    </string-array>
+</resources>

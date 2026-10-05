@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name">배경화면</string>
+    <string name="select_wallpaper_label">배경화면 카테고리</string>
+    <string name="set_wallpaper_button_text">배경화면 설정</string>
+    <string name="set_wallpaper_progress_message">배경화면 설정 중&#8230;</string>
+    <string name="try_again">다시 시도</string>
+    <string name="select_a_photo">사진 선택</string>
+    <string name="set_wallpaper_error_message">배경화면을 설정할 수 없습니다.</string>
+    <string name="load_wallpaper_error_message">
+        배경화면을 불러올 수 없습니다. 이미지가 손상되었거나 사용할 수 없습니다.
+    </string>
+    <string name="static_wallpaper_presentation_mode_message">현재 설정됨</string>
+    <string name="rotating_wallpaper_presentation_mode_message">매일 바뀌는 배경화면</string>
+    <string name="wallpaper_destination_both">홈 및 잠금 화면</string>
+    <string name="choose_a_wallpaper_section_title">배경화면 선택</string>
+    <string name="choose_a_curated_photo_section_title">추천 사진</string>
+    <string name="creative_wallpaper_title">배경화면 만들기</string>
+    <string name="wallpaper_studio_title">배경화면 스튜디오</string>
+    <string name="home_screen_message">홈 화면</string>
+    <string name="lock_screen_message">잠금 화면</string>
+    <string name="home_and_lock_short_label">홈 &#38; 잠금</string>
+    <string name="set_wallpaper_dialog_message">배경화면을 설정할 화면</string>
+    <string name="set_wallpaper_home_screen_destination">홈 화면</string>
+    <string name="set_wallpaper_lock_screen_destination">잠금 화면</string>
+    <string name="set_wallpaper_both_destination">홈 및 잠금 화면</string>
+    <string name="no_backup_image_wallpaper_label">순환 이미지 배경화면</string>
+    <string name="permission_needed_explanation">
+      여기에 현재 배경화면을 표시하려면
+      <xliff:g example="Wallpapers" id="app_name">%1$s</xliff:g>에 기기 저장공간 액세스
+      권한이 필요합니다.
+    </string>
+    <string name="permission_needed_explanation_go_to_settings">
+      여기에 현재 배경화면을 표시하려면 배경화면 앱에 기기 저장공간 액세스 권한이
+      필요합니다.\n\n이 설정을 변경하려면 배경화면 앱 정보의 권한 영역으로 이동하세요.
+    </string>
+    <string name="permission_needed_allow_access_button_label">
+      액세스 허용
+    </string>
+    <string name="no_backup_image_wallpaper_description">
+      순환 배경화면을 위한 라이브 배경화면 서비스
+    </string>
+    <string name="more_photos">사진 더보기</string>
+    <string name="choose_a_photo">사진 선택</string>
+    <string name="daily_refresh_tile_title">매일 바뀌는 배경화면</string>
+    <string name="daily_refresh_tile_subtitle">탭하여 켜기</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed">
+      배경화면이 매일 자동으로 변경됩니다. 설정을 완료하려면 다음 화면에서
+      <![CDATA[<strong>배경화면 설정</strong>]]>을 탭하세요.
+    </string>
+    <string name="start_rotation_dialog_wifi_only_option_message">
+      앞으로의 배경화면은 Wi-Fi에서만 다운로드
+    </string>
+    <string name="start_rotation_dialog_continue">계속</string>
+    <string name="start_rotation_progress_message">첫 배경화면 다운로드 중&#8230;</string>
+    <string name="start_rotation_error_message">
+      첫 배경화면을 다운로드할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요.
+    </string>
+    <string name="start_rotation_dialog_body">
+      배경화면이 매일 자동으로 변경됩니다.
+    </string>
+    <string name="collapse_content_description">
+      접기
+    </string>
+    <string name="expand_content_description">
+      펼치기
+    </string>
+    <string name="settings_button_label">설정</string>
+    <string name="explore">둘러보기</string>
+    <string name="next_wallpaper">다음 배경화면</string>
+    <string name="wallpaper_disabled_message">
+        이 기기에서는 배경화면 설정이 사용 중지되어 있습니다.
+    </string>
+    <string name="wallpaper_disabled_by_administrator_message">
+        기기 관리자가 배경화면 설정을 사용 중지했습니다.
+    </string>
+    <string name="wallpaper_set_successfully_message">
+        배경화면이 설정되었습니다.
+    </string>
+    <string name="wallpapers_unavailable_offline_message">
+        배경화면을 보려면 인터넷 연결이 필요합니다. 연결한 후 다시 시도하세요."
+    </string>
+    <string name="currently_set_home_wallpaper_thumbnail">
+      현재 설정된 홈 화면 배경화면 미리보기 이미지
+    </string>
+    <string name="currently_set_lock_wallpaper_thumbnail">
+      현재 설정된 잠금 화면 배경화면 미리보기 이미지
+    </string>
+    <string name="currently_set_wallpaper_thumbnail">현재 설정된 배경화면 미리보기 이미지</string>
+    <string name="wallpaper_thumbnail">배경화면 미리보기 이미지</string>
+    <string name="explore_home_screen">홈 화면 배경화면 둘러보기</string>
+    <string name="explore_lock_screen">잠금 화면 배경화면 둘러보기</string>
+    <string name="refresh_daily_wallpaper_home_content_description">홈 화면의 매일 바뀌는 배경화면 새로고침</string>
+    <string name="refresh_daily_wallpaper_content_description">매일 바뀌는 배경화면 새로고침</string>
+    <string name="preview_screen_description">배경화면 미리보기 화면</string>
+    <string name="preview_screen_description_editable">배경화면 미리보기 화면 %1$s. 두 손가락으로 이동하고 확대/축소할 수 있습니다.</string>
+    <string name="preview_screen_description_non_editable">배경화면 미리보기 화면 %1$s</string>
+    <string name="folded_device_state_description">접힘</string>
+    <string name="unfolded_device_state_description">펼침</string>
+    <string name="full_preview_check_button_description">배경화면 편집 완료</string>
+    <string name="suggestion_chip_close_button_description">테마 팩 공지 닫기</string>
+    <string name="refreshing_daily_wallpaper_dialog_message">
+        매일 바뀌는 배경화면 새로고침 중&#8230;
+    </string>
+    <string name="refresh_daily_wallpaper_failed_message">
+        매일 바뀌는 배경화면을 새로고침하지 못했습니다. 네트워크 연결을 확인하고 다시 시도하세요.
+    </string>
+    <string name="on_device_wallpapers_category_title">기기 내 배경화면</string>
+    <string name="on_device_wallpapers_category_title_desktop">기기 내</string>
+    <string name="on_device_wallpaper_title">Android 배경화면</string>
+    <string name="live_wallpapers_category_title">라이브 배경화면</string>
+    <string name="my_photos_category_title">내 사진</string>
+    <string name="my_photos_generic_wallpaper_title">내 사진</string>
+    <string name="fallback_wallpaper_title">배경화면</string>
+    <string name="app_not_found">앱이 설치되어 있지 않습니다.</string>
+    <string name="center_wallpaper_position">가운데</string>
+    <string name="center_crop_wallpaper_position">중앙 자르기</string>
+    <string name="stretch_wallpaper_position">늘이기</string>
+    <string name="preview">미리보기</string>
+    <string name="tab_info">정보</string>
+    <string name="tab_customize">맞춤설정</string>
+    <string name="tab_effects">효과</string>
+    <string name="tab_share">공유</string>
+    <string name="my_photos">내 사진</string>
+    <string name="configure_wallpaper">설정…</string>
+    <string name="delete_live_wallpaper">삭제</string>
+    <string name="edit_live_wallpaper">수정</string>
+    <string name="delete_wallpaper_confirmation">이 배경화면을 기기에서 삭제하시겠습니까?</string>
+    <string name="bottom_action_bar_back">위로 이동</string>
+    <string name="bottom_action_bar_edit">수정</string>
+    <string name="bottom_action_bar_download">다운로드</string>
+    <string name="download_effects">효과 다운로드</string>
+    <string name="bottom_action_bar_slideshow_wallpaper">슬라이드쇼 배경화면</string>
+    <string name="bottom_action_bar_apply">적용</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430"><xliff:g name="num_pages" example="2">%2$d</xliff:g>페이지 중 <xliff:g name="current_page" example="1">%1$d</xliff:g>페이지</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">다음</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">이전</string>
+    <string name="wallpaper_title">배경화면</string>
+    <string name="wallpaper_preview_card_content_description">배경화면 미리보기</string>
+    <string name="wallpaper_preview_card_content_description_editable">%1$s 배경화면 미리보기 %2$s, 두 번 탭하여 사진 편집</string>
+    <string name="wallpaper_preview_card_content_description_non_editable">%1$s 배경화면 미리보기 %2$s</string>
+    <string name="lock_wallpaper_preview_card_content_description">잠금 화면 배경화면 미리보기</string>
+    <string name="home_wallpaper_preview_card_content_description">홈 화면 배경화면 미리보기</string>
+    <string name="collection_not_exist_msg">컬렉션이 존재하지 않습니다.</string>
+    <string name="wallpaper_exit_split_screen">화면 분할 모드를 종료한 후 다시 시도하세요.</string>
+    <string name="wallpaper_preview_error">배경화면 미리보기를 표시할 수 없습니다.</string>
+    <string name="set_wallpaper_dialog_set_button">설정</string>
+    <string name="hide_ui_preview_text">UI 미리보기 숨기기</string>
+    <string name="hint_hide_ui_preview">미리보기에서 UI가 숨겨져 있습니다. 두 번 탭하여 표시</string>
+    <string name="show_ui_preview_text">UI 미리보기 표시</string>
+    <string name="hide_preview_controls_content_description">미리보기 컨트롤이 표시되어 있습니다. 두 번 탭하여 숨기기</string>
+    <string name="hide_preview_controls_action">미리보기 컨트롤 숨기기</string>
+    <string name="show_preview_controls_content_description">미리보기 컨트롤이 숨겨져 있습니다. 두 번 탭하여 표시</string>
+    <string name="show_preview_controls_action">미리보기 컨트롤 표시</string>
+    <string name="hide_wallpaper_info_action">배경화면 정보 숨기기</string>
+    <string name="hint_show_ui_preview">미리보기에 UI가 표시되어 있습니다. 두 번 탭하여 숨기기</string>
+    <string name="wallpaper_picker_entry_title" msgid="7039652539125902659">배경화면 변경</string>
+    <string name="lockscreen_wallpaper_preview_card_content_description" msgid="8575577284424318765">잠금 화면 배경화면 미리보기</string>
+    <string name="apply_btn" msgid="7965877231041987336">적용</string>
+    <string name="apply_wallpaper_title_text">배경화면을 적용할까요\?</string>
+    <string name="accessibility_customize_hidden">맞춤설정 숨겨짐</string>
+    <string name="accessibility_customize_shown">맞춤설정 표시됨</string>
+    <string name="accessibility_info_hidden">정보 숨겨짐</string>
+    <string name="accessibility_info_shown">정보 표시됨</string>
+    <string name="settings_snackbar_description">설정에서 파일 및 미디어 권한을 사용 설정하세요.</string>
+    <string name="settings_snackbar_enable">사용 설정</string>
+    <string name="open_my_photos">내 사진 열기</string>
+    <string name="lock_screen_tab">잠금 화면</string>
+    <string name="home_screen_tab">홈 화면</string>
+    <string name="reset">재설정</string>
+    <string name="reset_confirmation_dialog_title">변경사항을 초기화하시겠습니까?</string>
+    <string name="reset_confirmation_dialog_message">변경사항이 저장되지 않습니다.</string>
+    <string name="more_wallpapers">배경화면 더보기</string>
+    <string name="view_all_wallpapers">전체 보기</string>
+    <string name="wallpapers">배경화면</string>
+    <string name="recents_wallpaper_label">%1$s, %2$d</string>
+    <string name="default_wallpaper_title">배경화면</string>
+    <string name="small_preview_tooltip">탭하여 사진 편집</string>
+    <string name="full_preview_tooltip">사진의 위치, 크기, 각도를 조정하세요.</string>
+    <string name="discard_changes_dialog_message">변경사항을 버리시겠습니까?</string>
+    <string name="discard_changes_dialog_button_keep_editing">계속 편집</string>
+    <string name="discard_changes_dialog_button_discard">버리기</string>
+    <string name="action_zoom_in">확대</string>
+    <string name="action_zoom_out">축소</string>
+    <string name="zoomed_to_percent">%d%% 확대됨</string>
+    <string name="max_zoom_percentage">최대로 확대됨</string>
+    <string name="min_zoom_percentage">최소로 축소됨</string>
+    <string name="categories_collection_label">컬렉션</string>
+    <string name="carousel_content_description_photos">%2$d개 중 %1$d번째 사진</string>
+    <string name="carousel_content_description_default_wallpapers">%2$d개 중 %1$d번째 기본 배경화면</string>
+</resources>

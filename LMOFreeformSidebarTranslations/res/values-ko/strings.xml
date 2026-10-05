@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">사이드바</string>
+    <string name="enable_sideline">사이드바 사용</string>
+    <string name="sidebar_label">사이드바</string>
+    <string name="sidebar_summary">플로팅 창으로 앱을 빠르게 엽니다.</string>
+    <string name="sidebar_app_setting_label">고정된 앱</string>
+    <string name="sidebar_settings_description">사이드바 설정 열기</string>
+    <string name="sidebar_predicted_apps">앱 추천 표시</string>
+    <string name="sidebar_predicted_apps_summary">고정된 앱 아래에 추천 앱을 최대 6개 표시합니다.</string>
+    <string name="sidebar_auto_enable_selected_apps">선택한 앱에서 사이드바 자동 사용</string>
+    <string name="sidebar_auto_enable_selected_apps_summary">설정된 앱이 실행되면 사이드바를 자동으로 표시합니다.</string>
+    <string name="sidebar_per_app_config">앱 설정</string>
+    <string name="sidebar_per_app_config_summary">사이드바를 자동으로 사용할 앱을 선택함</string>
+    <string name="sidebar_customization_title">사이드바 맞춤설정</string>
+    <string name="sidebar_section_slider">슬라이더 설정</string>
+    <string name="sidebar_section_layout">레이아웃 설정</string>
+    <string name="sidebar_section_visual">시각 효과</string>
+    <string name="sidebar_section_miscellaneous">기타</string>
+    <string name="sidebar_transparency_value">슬라이더 투명도: %1$.2f</string>
+    <string name="sidebar_length_value">슬라이더 길이: %1$d</string>
+    <string name="sidebar_width_value">슬라이더 너비: %1$d</string>
+    <string name="sidebar_position_label">슬라이더 위치</string>
+    <string name="sidebar_left">왼쪽</string>
+    <string name="sidebar_right">오른쪽</string>
+    <string name="sidebar_icon_size_value">아이콘 크기: %1$d dp</string>
+    <string name="sidebar_icon_padding_value">아이콘 여백: %1$d dp</string>
+    <string name="sidebar_icon_padding_summary">각 아이콘 주변 여백</string>
+    <string name="sidebar_column_spacing_value">열 간격: %1$d dp</string>
+    <string name="sidebar_column_spacing_summary">열 사이 여백</string>
+    <string name="sidebar_corner_radius_value">모서리 반경: %1$d dp</string>
+    <string name="sidebar_bg_transparency_value">배경 투명도: %1$.2f</string>
+    <string name="sidebar_reset_defaults">기본값으로 재설정</string>
+    <string name="sidebar_drop_shadow_title">그림자</string>
+    <string name="sidebar_drop_shadow_summary">사이드바에 그림자 효과 추가</string>
+    <string name="sidebar_tap_to_open_title">탭하여 서랍 열기</string>
+    <string name="sidebar_tap_to_open_summary">슬라이더를 탭하면 사이드바 서랍을 엽니다.</string>
+    <string name="sidebar_swipe_to_open_title">스와이프하여 서랍 열기</string>
+    <string name="sidebar_swipe_to_open_summary">슬라이더를 가로로 스와이프하면 사이드바 서랍을 엽니다.</string>
+    <string name="sidebar_hide_on_gamespace_title">게임 스페이스 실행 중 숨기기</string>
+    <string name="sidebar_hide_on_gamespace_summary">게임 스페이스로 게임이 실행 중일 때 사이드바 슬라이더를 자동으로 숨깁니다.</string>
+    <plurals name="sidebar_columns_value">
+        <item quantity="other">%1$d열</item>
+    </plurals>
+</resources>

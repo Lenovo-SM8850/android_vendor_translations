@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permission_needed_explanation">Чтобы показать здесь текущие обои, приложению \"<xliff:g example="Wallpapers" id="app_name">%1$s</xliff:g>\" требуется доступ к памяти устройства.</string>
+    <string name="permission_needed_explanation_go_to_settings">Чтобы показать здесь текущие обои, приложению \"Обои\" требуется доступ к памяти устройства.\n\nЧтобы изменить эту настройку, откройте раздел разрешений в сведениях о приложении \"Обои\".</string>
+    <string name="wallpapers_unavailable_offline_message">Для просмотра обоев требуется подключение к Интернету. Подключитесь и повторите попытку.</string>
+    <string name="currently_set_home_wallpaper_thumbnail">Миниатюра текущих обоев главного экрана</string>
+    <string name="currently_set_lock_wallpaper_thumbnail">Миниатюра текущих обоев заблокированного экрана</string>
+    <string name="currently_set_wallpaper_thumbnail">Миниатюра текущих обоев</string>
+    <string name="wallpaper_thumbnail">Миниатюра обоев</string>
+    <string name="explore_home_screen">Подробнее об обоях главного экрана</string>
+    <string name="explore_lock_screen">Подробнее об обоях заблокированного экрана</string>
+    <string name="on_device_wallpapers_category_title">"Сохранённые на устройстве"</string>
+    <string name="app_not_found">Приложение не установлено.</string>
+    <string name="preview">Предпросмотр</string>
+    <string name="lockscreen_wallpaper_preview_card_content_description" msgid="8575577284424318765">Предпросмотр обоев заблокированного экрана</string>
+    <string name="discard_changes_dialog_message">Отменить изменения?</string>
+</resources>

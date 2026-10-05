@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="admin_has_ability_to_monitor_device">機構管理員可監控及管理與這輛車相關的設定、公司存取權、應用程式、權限和資料，包括網路活動以及這輛車的位置資訊。<xliff:g id="line_break">\n\n</xliff:g>如需詳細資訊 (包括機構的隱私權政策)，請與機構管理員聯絡。</string>
+    <string name="managed_device_info">這是受管理的車輛</string>
+    <string name="contact_your_admin_for_help">如需協助，請與機構管理員聯絡</string>
+    <string name="contact_device_provider">如要瞭解詳情，請與<xliff:g id="it_admin" example="organizations manager">%1$s</xliff:g>聯絡。</string>
+    <string name="if_questions_contact_admin">如有任何問題，請與機構管理員聯絡</string>
+    <string name="organization_admin">機構管理員</string>
+    <string name="brand_screen_header">這輛車屬於貴機構</string>
+    <string name="fully_managed_device_provisioning_accept_header">設定受管理的車輛</string>
+    <string name="fully_managed_device_provisioning_step_1_header">存取貴機構的應用程式</string>
+    <string name="fully_managed_device_provisioning_step_2_header">資訊娛樂系統資料並非私人資料</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">機構管理員或許可以查看你在這輛車上的活動和資料。</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">機構管理員可以設定這輛車上應用程式的權限，例如麥克風和位置資訊權限。</string>
+    <string name="fully_managed_device_provisioning_progress_label">正在設定受管理的車輛</string>
+    <string name="fully_managed_device_provisioning_summary">你可以透過這輛車的資訊娛樂系統輕鬆存取工作應用程式。這輛車並非私人車輛，因此機構管理員或許可以查看你的資料和活動。</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">你可以透過這輛車的資訊娛樂系統輕鬆存取工作應用程式。這輛車並非私人車輛，因此機構管理員或許可以查看你的活動和資料。機構管理員也可以設定這輛車上應用程式的權限，例如麥克風和位置資訊權限。</string>
+    <string name="fully_managed_device_provisioning_return_device_title">取消設定並歸還車輛</string>
+    <string name="fully_managed_device_provisioning_return_device_subheader">將這輛車重設並歸還給機構管理員，或返回上一個畫面繼續設定。</string>
+    <string name="fully_managed_device_reset_and_return_button">重設並歸還</string>
+    <string name="fully_managed_device_provisioning_privacy_body">機構管理員或許可以查看你在這輛車上的資料和活動。</string>
+    <string name="fully_managed_device_provisioning_step_1_description">正在設定資訊娛樂系統…</string>
+</resources>
