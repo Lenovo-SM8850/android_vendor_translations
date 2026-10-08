@@ -786,4 +786,17 @@
     <string name="hide_status_bar_in_screenshot_title">スクリーンショットのステータスバーを非表示</string>
     <string name="hide_status_bar_in_screenshot_summary">全画面のスクリーンショットからステータスバーの領域を切り取ります</string>
     <string name="wallpaper_zoom_summary">OFF にすると、余分なズームなしで壁紙が表示されます</string>
+    <string name="bluetooth_timeout">Bluetooth の自動 OFF 時間</string>
+    <string name="bluetooth_timeout_summary">Bluetooth を自動的に OFF にしません</string>
+    <string name="bluetooth_timeout_summary_auto">デバイスが接続されていない場合、<xliff:g id="timeout_description">%1$s</xliff:g>後に Bluetooth が OFF になります</string>
+    <string name="clipboard_auto_clear_enabled_title">クリップボードの自動消去を使用</string>
+    <string name="clipboard_auto_clear_summary">設定した時刻にクリップボードを自動的に消去します</string>
+    <string name="clipboard_auto_clear_timeout_disable_clipboard">クリップボードを無効にする</string>
+    <string name="clipboard_auto_clear_timeout_title">クリップボードの自動消去までの時間</string>
+    <string name="clipboard_auto_clear_title">クリップボードの自動消去</string>
+    <string name="prevent_ringing_option_cycle">モードを順番に切り替え</string>
+    <string name="prevent_ringing_option_cycle_summary">ON（モードを順番に切り替え）</string>
+    <string name="wifi_timeout">Wi-Fi の自動 OFF 時間</string>
+    <string name="wifi_timeout_summary">Wi-Fi を自動的に OFF にしません</string>
+    <string name="wifi_timeout_summary_auto">ネットワークに接続されていない場合、<xliff:g id="timeout_description">%1$s</xliff:g>後に Wi-Fi が OFF になります</string>
 </resources>

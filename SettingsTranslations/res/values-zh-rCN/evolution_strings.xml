@@ -906,4 +906,26 @@
     <string name="global_actions_advanced_reboot_summary">解锁支持高级重启的新对话框</string>
     <string name="screenshot_clipboard_only_summary">将屏幕截图复制到剪贴板，而不保存到存储空间</string>
     <string name="wallpaper_zoom_summary">关闭后将不对壁纸进行额外缩放</string>
+    <string name="bluetooth_timeout">蓝牙自动关闭时间</string>
+    <string name="bluetooth_timeout_summary">不自动关闭蓝牙</string>
+    <string name="bluetooth_timeout_summary_auto">如果未连接设备，将在<xliff:g id="timeout_description">%1$s</xliff:g>后关闭蓝牙</string>
+    <string name="clipboard_auto_clear_enabled_title">使用剪贴板自动清除</string>
+    <string name="clipboard_auto_clear_summary">在预定时间自动清除剪贴板</string>
+    <string name="clipboard_auto_clear_timeout_disable_clipboard">停用剪贴板</string>
+    <string name="clipboard_auto_clear_timeout_title">剪贴板自动清除时间</string>
+    <string name="clipboard_auto_clear_title">剪贴板自动清除</string>
+    <string name="dynamic_bar_event_call">正在通话</string>
+    <string name="dynamic_bar_event_call_summary">来电及正在进行的通话</string>
+    <string name="notification_heads_up_timeout_summary">悬浮通知的显示时长</string>
+    <string name="notification_heads_up_timeout_title">显示时长</string>
+    <string name="prevent_ringing_option_cycle">循环切换模式</string>
+    <string name="prevent_ringing_option_cycle_summary">开启（循环切换模式）</string>
+    <string name="qs_show_volume_slider_below">音量滑块位于亮度滑块下方</string>
+    <string name="status_bar_clock_bold_summary">以粗体显示状态栏时钟</string>
+    <string name="status_bar_clock_bold_title">粗体时钟</string>
+    <string name="status_bar_clock_period_separator_summary">使用句点代替冒号显示时间（10.45 而非 10:45）</string>
+    <string name="status_bar_clock_period_separator_title">句点分隔符</string>
+    <string name="wifi_timeout">WLAN 自动关闭时间</string>
+    <string name="wifi_timeout_summary">不自动关闭 WLAN</string>
+    <string name="wifi_timeout_summary_auto">如果未连接网络，将在<xliff:g id="timeout_description">%1$s</xliff:g>后关闭 WLAN</string>
 </resources>

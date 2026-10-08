@@ -1426,4 +1426,26 @@
     <string name="hide_status_bar_in_screenshot_summary">Обрезать область строки состояния на полных снимках экрана</string>
     <string name="wallpaper_zoom_title">Масштаб обоев</string>
     <string name="wallpaper_zoom_summary">Отключите, чтобы показывать обои без дополнительного увеличения</string>
+    <string name="bluetooth_timeout">Тайм-аут Bluetooth</string>
+    <string name="bluetooth_timeout_summary">Не отключать Bluetooth автоматически</string>
+    <string name="bluetooth_timeout_summary_auto">Bluetooth отключится через <xliff:g id="timeout_description">%1$s</xliff:g>, если нет подключённых устройств</string>
+    <string name="clipboard_auto_clear_enabled_title">Использовать автоочистку буфера обмена</string>
+    <string name="clipboard_auto_clear_summary">Автоматически очищать буфер обмена в заданное время</string>
+    <string name="clipboard_auto_clear_timeout_disable_clipboard">Отключить буфер обмена</string>
+    <string name="clipboard_auto_clear_timeout_title">Время автоочистки буфера обмена</string>
+    <string name="clipboard_auto_clear_title">Автоочистка буфера обмена</string>
+    <string name="dynamic_bar_event_call">Текущий вызов</string>
+    <string name="dynamic_bar_event_call_summary">Входящие и активные вызовы</string>
+    <string name="notification_heads_up_timeout_summary">Время показа всплывающих уведомлений</string>
+    <string name="notification_heads_up_timeout_title">Время показа</string>
+    <string name="prevent_ringing_option_cycle">Циклическая смена режимов</string>
+    <string name="prevent_ringing_option_cycle_summary">Включено (циклическая смена режимов)</string>
+    <string name="qs_show_volume_slider_below">Ползунок громкости под ползунком яркости</string>
+    <string name="status_bar_clock_bold_summary">Показывать часы в строке состояния жирным шрифтом</string>
+    <string name="status_bar_clock_bold_title">Жирные часы</string>
+    <string name="status_bar_clock_period_separator_summary">Показывать время с точкой вместо двоеточия (10.45 вместо 10:45)</string>
+    <string name="status_bar_clock_period_separator_title">Точка в качестве разделителя</string>
+    <string name="wifi_timeout">Тайм-аут Wi-Fi</string>
+    <string name="wifi_timeout_summary">Не отключать Wi-Fi автоматически</string>
+    <string name="wifi_timeout_summary_auto">Wi-Fi отключится через <xliff:g id="timeout_description">%1$s</xliff:g>, если нет подключения к сети</string>
 </resources>

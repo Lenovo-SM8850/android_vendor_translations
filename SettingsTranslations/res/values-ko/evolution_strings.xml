@@ -1843,4 +1843,24 @@
     <string name="hide_status_bar_in_screenshot_summary">전체 스크린샷에서 상태 표시줄 영역 잘라내기</string>
     <string name="wallpaper_zoom_title">배경화면 확대</string>
     <string name="wallpaper_zoom_summary">사용 중지하면 추가 확대 없이 배경화면 표시</string>
+    <string name="bluetooth_timeout">블루투스 자동 끄기 시간</string>
+    <string name="bluetooth_timeout_summary">블루투스를 자동으로 끄지 않음</string>
+    <string name="bluetooth_timeout_summary_auto">연결된 기기가 없으면 <xliff:g id="timeout_description">%1$s</xliff:g> 후 블루투스가 꺼집니다.</string>
+    <string name="clipboard_auto_clear_enabled_title">클립보드 자동 지우기 사용</string>
+    <string name="clipboard_auto_clear_summary">예약된 시간에 클립보드를 자동으로 지움</string>
+    <string name="clipboard_auto_clear_timeout_disable_clipboard">클립보드 사용 안 함</string>
+    <string name="clipboard_auto_clear_timeout_title">클립보드 자동 지우기 시간</string>
+    <string name="clipboard_auto_clear_title">클립보드 자동 지우기</string>
+    <string name="notification_heads_up_timeout_summary">헤드업 알림이 표시되는 시간</string>
+    <string name="notification_heads_up_timeout_title">표시 시간</string>
+    <string name="prevent_ringing_option_cycle">모드 순환</string>
+    <string name="prevent_ringing_option_cycle_summary">사용 (모드 순환)</string>
+    <string name="qs_show_volume_slider_below">밝기 슬라이더 아래 볼륨 슬라이더</string>
+    <string name="status_bar_clock_bold_summary">상태 표시줄 시계를 굵은 글씨로 표시</string>
+    <string name="status_bar_clock_bold_title">굵은 시계</string>
+    <string name="status_bar_clock_period_separator_summary">콜론 대신 마침표로 시간 표시 (10:45 대신 10.45)</string>
+    <string name="status_bar_clock_period_separator_title">마침표 구분</string>
+    <string name="wifi_timeout">Wi-Fi 자동 끄기 시간</string>
+    <string name="wifi_timeout_summary">Wi-Fi를 자동으로 끄지 않음</string>
+    <string name="wifi_timeout_summary_auto">연결된 네트워크가 없으면 <xliff:g id="timeout_description">%1$s</xliff:g> 후 Wi-Fi가 꺼집니다.</string>
 </resources>

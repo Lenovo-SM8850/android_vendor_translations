@@ -615,4 +615,26 @@
     <string name="global_actions_use_compose_dialog_summary">使用可自訂、可拖曳設定方塊版面配置的新電源鍵選單。停用後將使用傳統電源鍵選單。</string>
     <string name="wallpaper_zoom_title">桌布縮放</string>
     <string name="wallpaper_zoom_summary">關閉後，桌布將不會額外縮放</string>
+    <string name="bluetooth_timeout">藍牙自動關閉時間</string>
+    <string name="bluetooth_timeout_summary">不自動關閉藍牙</string>
+    <string name="bluetooth_timeout_summary_auto">如果未連線任何裝置，藍牙將在<xliff:g id="timeout_description">%1$s</xliff:g>後關閉</string>
+    <string name="clipboard_auto_clear_enabled_title">使用剪貼簿自動清除</string>
+    <string name="clipboard_auto_clear_summary">在預定時間自動清除剪貼簿</string>
+    <string name="clipboard_auto_clear_timeout_disable_clipboard">停用剪貼簿</string>
+    <string name="clipboard_auto_clear_timeout_title">剪貼簿自動清除時間</string>
+    <string name="clipboard_auto_clear_title">剪貼簿自動清除</string>
+    <string name="dynamic_bar_event_call">通話中</string>
+    <string name="dynamic_bar_event_call_summary">來電與進行中的通話</string>
+    <string name="notification_heads_up_timeout_summary">浮動通知的顯示時間</string>
+    <string name="notification_heads_up_timeout_title">顯示時間</string>
+    <string name="prevent_ringing_option_cycle">循環切換模式</string>
+    <string name="prevent_ringing_option_cycle_summary">開啟（循環切換模式）</string>
+    <string name="qs_show_volume_slider_below">音量滑桿位於亮度滑桿下方</string>
+    <string name="status_bar_clock_bold_summary">以粗體顯示狀態列時鐘</string>
+    <string name="status_bar_clock_bold_title">粗體時鐘</string>
+    <string name="status_bar_clock_period_separator_summary">以句點取代冒號顯示時間（10.45 而非 10:45）</string>
+    <string name="status_bar_clock_period_separator_title">句點分隔符號</string>
+    <string name="wifi_timeout">Wi-Fi 自動關閉時間</string>
+    <string name="wifi_timeout_summary">不自動關閉 Wi-Fi</string>
+    <string name="wifi_timeout_summary_auto">如果未連線至任何網路，Wi-Fi 將在<xliff:g id="timeout_description">%1$s</xliff:g>後關閉</string>
 </resources>
