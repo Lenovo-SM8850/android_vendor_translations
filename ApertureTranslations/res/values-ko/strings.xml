@@ -34,7 +34,7 @@
     <string name="qr_icon_description">아이콘</string>
     <string name="qr_share_description">공유</string>
     <string name="qr_share_with_action">공유 대상</string>
-    <string name="qr_no_app_available_for_action">이 작업을 처리할 수 있는 앱이 없습니다</string>
+    <string name="qr_no_app_available_for_action">이 작업을 처리할 수 있는 앱이 없습니다.</string>
     <string name="qr_address_title">연락처에 추가</string>
     <string name="qr_address_content_description">연락처에 추가</string>
     <string name="qr_calendar_title">캘린더에 일정 추가</string>

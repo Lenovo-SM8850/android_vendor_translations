@@ -1091,7 +1091,7 @@
     <string name="ts_fetch_keybox_blocked">키박스가 유효하여 가져오기가 필요하지 않음</string>
     <string name="ts_fetch_keybox_last_fetched">마지막 가져오기: %1$s</string>
     <string name="ts_fetch_keybox_auto_replaced">키박스가 유효한 것으로 자동 교체됨</string>
-    <string name="ts_fetch_keybox_no_valid_found">아직 유효한 키박스가 없어 내일 다시 시도합니다</string>
+    <string name="ts_fetch_keybox_no_valid_found">아직 유효한 키박스가 없어 내일 다시 시도합니다.</string>
     <string name="ts_chain_invalid_title">인증서 체인이 올바르지 않음</string>
     <string name="ts_chain_invalid_message">키박스 인증서 체인이 올바르지 않거나 확인할 수 없습니다. 손상되었거나 변조되었을 수 있습니다. 공식 키박스로 교체하시겠습니까?</string>
     <string name="ts_expiring_soon_title">키박스 만료 임박</string>
