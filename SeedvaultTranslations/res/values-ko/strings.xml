@@ -74,7 +74,7 @@
     <string name="settings_expert_logcat_summary">개발자가 이 로그로 버그를 진단할 수 있습니다.\n\n경고: 로그 파일에 개인 식별 정보가 포함될 수 있습니다. 공유하기 전에 확인하고 공유 후에는 삭제하세요!</string>
     <string name="settings_expert_logcat_error">오류: 앱 로그를 저장할 수 없음</string>
     <string name="storage_fragment_backup_title">백업 저장 위치 선택</string>
-    <string name="storage_fragment_restore_title">백업을 찾을 위치는 어디입니까?</string>
+    <string name="storage_fragment_restore_title">백업 위치</string>
     <string name="storage_user_selected_location_title">사용자가 선택한 위치</string>
     <string name="storage_fake_drive_title">USB 플래시 드라이브</string>
     <string name="storage_fake_drive_summary">연결해야 함</string>
@@ -123,7 +123,7 @@
     <string name="recovery_code_verification_error_message">잘못된 복구 코드를 입력했습니다. 다시 시도하세요!\n\n코드를 분실한 경우 아래의 \'새 코드 생성\'을 탭하세요.</string>
     <string name="recovery_code_verification_try_again">다시 시도</string>
     <string name="recovery_code_verification_generate_new">새 코드 생성</string>
-    <string name="recovery_code_verification_new_dialog_title">잠시만 기다리세요…</string>
+    <string name="recovery_code_verification_new_dialog_title">잠시 기다리는 중…</string>
     <string name="recovery_code_verification_new_dialog_message">새 코드를 생성하면 기존 백업에 액세스할 수 없게 됩니다. 가능한 경우 삭제를 시도합니다. 완료되면 이 앱이 종료됩니다.\n\n계속하시겠습니까?</string>
     <string name="recovery_code_recreated">새 복구 코드가 생성되었습니다. 종료 중…</string>
     <string name="recovery_code_auth_title">화면 잠금 다시 입력</string>
