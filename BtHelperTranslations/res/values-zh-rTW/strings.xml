@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_title">更多設定</string>
+    <string name="more_settings_subtitle">相對音量、耳朵偵測等</string>
+    <string name="automatic_ear_detection_title">自動耳朵偵測</string>
+    <string name="personalized_volume_title">個人化音量</string>
+    <string name="personalized_volume_summary">根據周遭環境調整媒體音量。</string>
+    <string name="conversational_awareness_title">對話感知</string>
+    <string name="conversational_awareness_summary">你說話時會降低媒體音量並減少背景噪音。</string>
+    <string name="relative_conversational_awareness_volume_title">相對音量</string>
+    <string name="relative_conversational_awareness_volume_summary">降低至目前音量的百分比，而不是降到最低。</string>
+    <string name="conversational_awareness_pause_music_title">暫停媒體</string>
+    <string name="conversational_awareness_pause_music_summary">你說話時停止播放媒體。</string>
+    <string name="head_gestures_title">頭部手勢</string>
+    <string name="head_gestures_summary">點頭接聽來電，搖頭拒接。</string>
+    <string name="use_alternate_head_tracking_packets_title">替代的頭部追蹤封包</string>
+    <string name="use_alternate_head_tracking_packets_summary">傳送不同的資料給 AirPods，以要求或停止頭部追蹤。如果頭部追蹤無法運作，請啟用這個選項。</string>
+    <string name="disconnect_when_not_wearing_title">未佩戴時中斷連線</string>
+    <string name="low_latency_audio_title">低延遲音訊</string>
+    <string name="low_latency_audio_summary">減少音訊延遲。\n開啟後需要重新連接 AirPods，且可能會增加耗電量。</string>
+    <string name="low_latency_audio_slice_subtitle">需要重新連接 AirPods。</string>
+    <string name="head_gesture_call_answered_toast">已透過頭部手勢接聽來電</string>
+    <string name="head_gesture_call_rejected_toast">已透過頭部手勢拒接來電</string>
+</resources>

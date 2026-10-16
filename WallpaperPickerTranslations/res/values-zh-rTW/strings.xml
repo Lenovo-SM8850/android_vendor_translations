@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="start_rotation_dialog_body_live_wallpaper_needed">桌布將每天自動更換。如要完成設定，請在下一個畫面中輕觸 <![CDATA[<strong>設為桌布</strong>]]>。</string>
+    <string name="bottom_action_bar_back">向上瀏覽</string>
+    <string name="wallpaper_exit_split_screen">請結束分割畫面模式，然後再試一次</string>
+    <string name="lock_screen_tab">螢幕鎖定</string>
+</resources>
