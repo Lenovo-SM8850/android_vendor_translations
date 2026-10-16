@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="lock_screen_message">锁屏</string>
+    <string name="set_wallpaper_lock_screen_destination">锁屏</string>
+    <string name="permission_needed_explanation">要在此处显示当前壁纸，<xliff:g example="Wallpapers" id="app_name">%1$s</xliff:g>需要访问您设备的存储空间。</string>
+    <string name="on_device_wallpapers_category_title_desktop">设备上</string>
+    <string name="edit_live_wallpaper">编辑</string>
+    <string name="bottom_action_bar_edit">编辑</string>
+    <string name="lock_screen_tab">锁屏</string>
+</resources>

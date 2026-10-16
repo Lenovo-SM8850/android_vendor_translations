@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="admin_has_ability_to_monitor_device">组织管理员能够监控和管理与此车辆相关的设置、企业访问权限、应用、权限和数据（包括网络活动），以及此车辆的位置。<xliff:g id="line_break">\n\n</xliff:g>如需了解详情（包括组织的隐私权政策），请联系组织管理员。</string>
+    <string name="managed_device_info">这是一辆受管理的车辆</string>
+    <string name="contact_your_admin_for_help">请联系组织管理员以获取帮助</string>
+    <string name="contact_device_provider">如需了解详情，请联系<xliff:g id="it_admin" example="organizations manager">%1$s</xliff:g>。</string>
+    <string name="if_questions_contact_admin">如有任何疑问，请联系组织管理员</string>
+    <string name="organization_admin">组织管理员</string>
+    <string name="brand_screen_header">此车辆属于组织</string>
+    <string name="fully_managed_device_provisioning_accept_header">设置受管理的车辆</string>
+    <string name="fully_managed_device_provisioning_step_1_header">访问组织的应用</string>
+    <string name="fully_managed_device_provisioning_step_2_header">信息娱乐系统数据并非私密数据</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">组织管理员可能会查看您在此车辆上的活动和数据。</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">组织管理员可为此车辆上的应用设置权限，例如麦克风权限和位置信息权限。</string>
+    <string name="fully_managed_device_provisioning_progress_label">正在设置受管理的车辆</string>
+    <string name="fully_managed_device_provisioning_summary">使用此车辆的信息娱乐系统，轻松访问您的工作应用。此车辆并非私人所有，因此组织管理员可能会查看您的数据和活动。</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">使用此车辆的信息娱乐系统，轻松访问您的工作应用。此车辆并非私人所有，因此组织管理员可能会查看您的活动和数据。组织管理员还可为此车辆上的应用设置权限，例如麦克风权限和位置信息权限。</string>
+    <string name="fully_managed_device_provisioning_return_device_title">取消设置并交还车辆</string>
+    <string name="fully_managed_device_provisioning_return_device_subheader">重置此车辆并将其交还给组织管理员，或返回上一屏幕继续设置。</string>
+    <string name="fully_managed_device_reset_and_return_button">重置并交还</string>
+    <string name="fully_managed_device_provisioning_privacy_body">组织管理员可能会查看您在此车辆上的数据和活动。</string>
+</resources>
