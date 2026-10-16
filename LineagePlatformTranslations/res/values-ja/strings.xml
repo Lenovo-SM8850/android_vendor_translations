@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permdesc_modifyProfiles">アプリがシステム プロファイルを変更することを許可します。</string>
+    <string name="permlab_useHardwareFramework">ハードウェア フレームワークの使用</string>
+    <string name="permdesc_useHardwareFramework">アプリが Lineage ハードウェア フレームワークにアクセスすることを許可します。</string>
+    <string name="permlab_writeSettings">Lineage システム設定の変更</string>
+    <string name="permdesc_writeSettings">アプリが Lineage システム設定を変更することを許可します。</string>
+    <string name="permlab_writeSecureSettings">Lineage セキュア システム設定の変更</string>
+    <string name="permdesc_writeSecureSettings">アプリが Lineage セキュア システム設定を変更することを許可します。通常のアプリでは使用しません。</string>
+    <string name="live_display_auto_summary">日の入りと日の出に合わせて、画面の色温度を自動的に調整します</string>
+    <string name="live_display_off_summary">すべての調整を無効にします</string>
+    <string name="live_display_day_summary">昼の設定のみを使用します</string>
+    <string name="live_display_night_summary">夜の設定のみを使用します</string>
+    <string name="live_display_outdoor_summary">屋外の設定のみを使用します</string>
+    <string name="live_display_hint">ライブディスプレイは目の疲れを軽減し、夜の睡眠をサポートします。ここをタップして試してみましょう。</string>
+    <string name="accessibility_quick_settings_live_display_off">ライブディスプレイは OFF です。</string>
+    <string name="accessibility_quick_settings_live_display_auto">ライブディスプレイ: 自動モードです。</string>
+    <string name="accessibility_quick_settings_live_display_day">ライブディスプレイ: 昼モードです。</string>
+    <string name="accessibility_quick_settings_live_display_night">ライブディスプレイ: 夜モードです。</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">ライブディスプレイ: 屋外モードです。</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">ライブディスプレイを OFF にしました。</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">ライブディスプレイを自動モードに変更しました。</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">ライブディスプレイを昼モードに変更しました。</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">ライブディスプレイを夜モードに変更しました。</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">ライブディスプレイを屋外モードに変更しました。</string>
+    <string name="permlab_manageLiveDisplay">ライブディスプレイの設定の管理</string>
+    <string name="permdesc_manageLiveDisplay">アプリがディスプレイの詳細設定を構成することを許可します。</string>
+    <string name="lineage_vendor_security_patch">ベンダー セキュリティ パッチ レベル</string>
+    <string name="permdesc_trustInterface">アプリが Trust の警告と提案を表示することを許可します</string>
+    <string name="trust_notification_title_onboarding">Trust について知る</string>
+    <string name="trust_notification_content_onboarding">デバイスの安全性を確保する方法を確認しましょう</string>
+    <string name="charging_control_notification_content_target">バッテリーは %1$s に満充電になります</string>
+</resources>
