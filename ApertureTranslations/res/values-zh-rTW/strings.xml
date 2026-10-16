@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="qr_fido_title">使用密碼金鑰</string>
+    <string name="focus_button_action_title">對焦鍵操作</string>
+    <string name="volume_buttons_action_title">音量鍵操作</string>
+    <string name="photo_capture_mode_maximize_quality">最高品質</string>
+    <string name="photo_capture_mode_minimize_latency">最低延遲</string>
+    <string name="hot_pixel_mode_title">熱像素修正</string>
+    <string name="hot_pixel_mode_summary">熱像素修正會對無法準確測量入射光的像素 (即卡在任意值或過度敏感的像素) 進行內插或移除。</string>
+    <string name="location_permission_dialog_description">在每次拍攝時加入位置中繼資料，標記你的回憶地圖。</string>
+    <string name="error_camera_fatal_error">發生嚴重錯誤，請嘗試重新啟動你的裝置。</string>
+    <string name="error_no_cameras_available">在裝置上找不到相機，無法啟動應用程式。</string>
+    <string name="gesture_action_focus">對焦</string>
+    <string name="force_torch_help">在相片模式中，你可以長按閃光燈按鈕以切換至手電筒模式。</string>
+</resources>

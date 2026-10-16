@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="check_error_has_snapshots">我們找到 %1$d 個備份快照，其中部分已損毀或有錯誤。以下是可 (部分) 還原的備份。</string>
+    <string name="check_error_no_result">我們遺失了詳細的結果。距離執行檢查是否已經過了很長一段時間？請嘗試再次執行。</string>
+    <string name="check_error_no_snapshots">找不到任何備份。請先成功執行一次備份，然後再重新檢查。</string>
+    <string name="check_error_only_broken_snapshots">我們找到 %1$d 個備份快照，但全部都已損毀。請先成功執行一次備份，然後再重新檢查。</string>
+    <string name="check_error_snapshot">這個備份有一些錯誤，你可能只能部分還原。</string>
+    <string name="check_files_error">備份資料已損毀，檔案將無法完整還原。</string>
+    <string name="check_files_text">「%s」包含下列檔案：</string>
+    <string name="check_files_title">此備份中的檔案</string>
+    <string name="check_success_intro">找到 %1$d 個快照，其資料已成功驗證 %2$d%% (%3$s)：</string>
+    <string name="content_remove">移除</string>
+    <string name="mtrl_button_collapsed_content_description">已收合</string>
+    <string name="mtrl_button_expanded_content_description">已展開</string>
+    <string name="mtrl_button_overflow_icon_content_description">溢位選單</string>
+    <string name="nav_rail_collapsed_a11y_label">已收合</string>
+    <string name="nav_rail_expanded_a11y_label">已展開</string>
+    <string name="notification_check_action">詳細資料</string>
+    <string name="notification_check_channel_title">檔案備份完整性檢查</string>
+    <string name="notification_check_error_text">輕觸查看詳細資料。我們已檢查 %1$s，平均速度為 %2$s。</string>
+    <string name="notification_check_error_title">發現檔案備份錯誤</string>
+    <string name="notification_check_finished_text">已成功檢查 %1$s，平均速度為 %2$s。</string>
+    <string name="notification_check_finished_title">檔案備份完整性已驗證</string>
+    <string name="notification_check_text">正在擷取可用的備份資料。</string>
+    <string name="notification_check_title">正在檢查檔案備份…</string>
+    <string name="notification_restore_complete_dups">有 %1$d 個檔案重複。</string>
+    <string name="notification_restore_complete_errors">有 %1$d 個檔案發生錯誤。</string>
+    <string name="select_files_button_restore">還原所選檔案</string>
+    <string name="select_files_number_of_files">%1$d 個檔案</string>
+    <string name="select_files_title">檢查要還原的檔案</string>
+</resources>

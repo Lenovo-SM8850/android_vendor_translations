@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="app_lock_summary_count">
+        <item quantity="other">已鎖定 <xliff:g id="count" example="3">%d</xliff:g> 個應用程式</item>
+    </plurals>
+    <plurals name="ts_added_installed_count">
+        <item quantity="other">已將 %d 個應用程式新增至目標</item>
+    </plurals>
+</resources>
