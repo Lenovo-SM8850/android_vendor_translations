@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="app_lock_summary_count">
+        <item quantity="other">잠긴 앱 <xliff:g id="count" example="3">%d</xliff:g>개</item>
+    </plurals>
+    <plurals name="ts_added_installed_count">
+        <item quantity="other">대상에 앱 %d개를 추가함</item>
+    </plurals>
+</resources>
