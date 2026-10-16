@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">情景可信提供程序</string>
+    <string name="profile_trust_agent_title">情景可信代理</string>
+    <string name="profile_trust_agent_summary">允许情景暂时停用锁屏保护</string>
+    <string name="trust_by_profile">受情景信任</string>
+</resources>

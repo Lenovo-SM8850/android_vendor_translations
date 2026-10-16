@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">人脸解锁服务</string>
+    <string name="face_enroll_title">请将您的脸部置于摄像头画面中央</string>
+    <string name="face_enroll_description">请保持不动，并确保光线充足</string>
+    <string name="face_try_again_title">无法捕捉您的面部</string>
+    <string name="face_try_again_description">点按下方按钮重试。下次请确保光线充足，并且没有任何物体遮挡您的面部</string>
+    <string name="btn_try_again">重试</string>
+    <string name="attr_light_dark">面部光线不足</string>
+    <string name="attr_light_high">面部光线过强</string>
+    <string name="attr_light_shadow">面部阴影过多</string>
+    <string name="unlock_failed_face_blur">面部过于模糊</string>
+    <string name="unlock_failed_face_large">面部距离过近</string>
+    <string name="unlock_failed_face_multi">检测到的面部过多</string>
+    <string name="unlock_failed_face_not_complete">仅检测到部分面部</string>
+    <string name="unlock_failed_face_small">面部距离过远</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="manage_windows_icon_text">打开窗口 %1$d</string>
+    <string name="mtrl_button_collapsed_content_description">已收起</string>
+    <string name="mtrl_button_expanded_content_description">已展开</string>
+    <string name="mtrl_button_overflow_icon_content_description">更多选项</string>
+    <string name="nav_rail_collapsed_a11y_label">已收起</string>
+    <string name="nav_rail_expanded_a11y_label">已展开</string>
+</resources>

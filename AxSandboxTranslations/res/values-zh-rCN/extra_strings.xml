@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">一个布尔值。</string>
+    <string name="any_int_type_description">一个整数值。</string>
+    <string name="any_string_type_description">一个字符串值。</string>
+    <string name="debug_hw_renderer">设置 GPU 渲染器</string>
+    <string name="display_id_type_description">系统显示屏标识符（可能是内置或外接，取决于配置）。</string>
+    <string name="installed_package_name_type_description">设备上安装的任意软件包。</string>
+    <string name="int_in_range_type_description_between">给定范围 [%1$d, %2$d] 内的整数，步长为 %3$d。</string>
+    <string name="int_in_range_type_description_from">大于或等于 %1$d 的整数，步长为 %2$d。</string>
+    <string name="int_in_range_type_description_to">小于或等于 %1$d 的整数，步长为 %2$d。</string>
+    <string name="long_press_to_reset">长按以重置</string>
+    <string name="manage_windows_icon_text">打开窗口 %1$d</string>
+    <string name="mtrl_button_collapsed_content_description">已收起</string>
+    <string name="mtrl_button_expanded_content_description">已展开</string>
+    <string name="mtrl_button_overflow_icon_content_description">更多选项</string>
+    <string name="nav_rail_collapsed_a11y_label">已收起</string>
+    <string name="nav_rail_expanded_a11y_label">已展开</string>
+    <string name="settingslib_action_label_pause">暂停</string>
+    <string name="settingslib_action_label_resume">继续</string>
+    <string name="settingslib_illustration_content_description">动画</string>
+    <string name="sim_slot_id_type_description">有效的 SIM 卡槽 ID。</string>
+    <string name="subscription_id_type_description">有效的订阅 ID。</string>
+    <string name="time_duration_type_description">以整数表示的时长，精度为秒。</string>
+    <string name="time_of_day_type_description">采用 24 小时制 HH:mm 格式表示的一天中的时间。</string>
+    <string name="wifi_ssid_type_description">WLAN 网络的 SSID。</string>
+</resources>
