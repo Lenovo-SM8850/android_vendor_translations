@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">부울 값입니다.</string>
+    <string name="any_int_type_description">정수 값입니다.</string>
+    <string name="any_string_type_description">문자열 값입니다.</string>
+    <string name="debug_hw_renderer">GPU 렌더러 설정</string>
+    <string name="display_id_type_description">시스템 디스플레이 식별자입니다(구성에 따라 내장 또는 외부 디스플레이일 수 있음).</string>
+    <string name="installed_package_name_type_description">기기에 설치된 모든 패키지입니다.</string>
+    <string name="int_in_range_type_description_between">%3$d 단위로 증가하는 [%1$d, %2$d] 범위의 정수입니다.</string>
+    <string name="int_in_range_type_description_from">%1$d 이상이며 %2$d 단위로 증가하는 정수입니다.</string>
+    <string name="int_in_range_type_description_to">%1$d 이하이며 %2$d 단위로 증가하는 정수입니다.</string>
+    <string name="manage_windows_icon_text">창 %1$d 열기</string>
+    <string name="mtrl_button_collapsed_content_description">접힘</string>
+    <string name="mtrl_button_expanded_content_description">펼쳐짐</string>
+    <string name="mtrl_button_overflow_icon_content_description">더보기 메뉴</string>
+    <string name="nav_rail_collapsed_a11y_label">접힘</string>
+    <string name="nav_rail_expanded_a11y_label">펼쳐짐</string>
+    <string name="settingslib_action_label_pause">일시중지</string>
+    <string name="settingslib_action_label_resume">다시 시작</string>
+    <string name="settingslib_illustration_content_description">애니메이션</string>
+    <string name="sim_slot_id_type_description">올바른 SIM 슬롯 ID입니다.</string>
+    <string name="subscription_id_type_description">올바른 구독 ID입니다.</string>
+    <string name="time_duration_type_description">초 단위 정밀도의 정수로 나타낸 시간 길이입니다.</string>
+    <string name="time_of_day_type_description">24시간 형식(HH:mm)으로 정의된 시각입니다.</string>
+    <string name="wifi_ssid_type_description">Wi-Fi 네트워크의 SSID입니다.</string>
+</resources>

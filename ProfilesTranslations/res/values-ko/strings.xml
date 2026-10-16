@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">프로필 Trust Agent 제공자</string>
+    <string name="profile_picker_title">프로필</string>
+    <string name="profile_none">없음</string>
+    <string name="profile_trust_agent_title">프로필 Trust Agent</string>
+    <string name="profile_trust_agent_summary">프로필이 잠금 화면 보호를 일시적으로 비활성화할 수 있도록 허용</string>
+    <string name="trust_by_profile">프로필에서 신뢰됨</string>
+</resources>

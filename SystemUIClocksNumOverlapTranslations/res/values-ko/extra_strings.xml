@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_close_overlay_action">뒤로 가기</string>
+    <string name="accessibility_close_overlay_box_description">뒤로</string>
+    <string name="manage_windows_icon_text">창 %1$d 열기</string>
+    <string name="mtrl_button_collapsed_content_description">접힘</string>
+    <string name="mtrl_button_expanded_content_description">펼쳐짐</string>
+    <string name="mtrl_button_overflow_icon_content_description">더보기 메뉴</string>
+    <string name="nav_rail_collapsed_a11y_label">접힘</string>
+    <string name="nav_rail_expanded_a11y_label">펼쳐짐</string>
+</resources>

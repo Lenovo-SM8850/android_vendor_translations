@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="when_to_start_screensaver_values_no_battery">
+        <item>while_charging_only</item>
+        <item>while_postured_only</item>
+    </string-array>
+</resources>

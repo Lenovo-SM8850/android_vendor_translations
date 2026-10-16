@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">배터리 통계 뷰어</string>
+    <string name="header">배터리 통계</string>
+    <string name="display_dashboard_summary">배터리 사용량 통계를 자세히 보기</string>
+</resources>
