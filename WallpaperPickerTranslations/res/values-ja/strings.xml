@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="rotating_wallpaper_presentation_mode_message">"日替わり壁紙"</string>
+    <string name="permission_needed_explanation">現在の壁紙をここに表示するには、<xliff:g example="Wallpapers" id="app_name">%1$s</xliff:g> にデバイスのストレージへのアクセスを許可する必要があります。</string>
+    <string name="refresh_daily_wallpaper_home_content_description">"ホーム画面の日替わり壁紙を更新"</string>
+    <string name="refresh_daily_wallpaper_content_description">"日替わり壁紙を更新"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message">"日替わり壁紙を更新しています…"</string>
+    <string name="refresh_daily_wallpaper_failed_message">"日替わり壁紙を更新できませんでした。ネットワーク接続を確認してからもう一度お試しください。"</string>
+</resources>

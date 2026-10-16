@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">ブール値。</string>
+    <string name="any_int_type_description">整数値。</string>
+    <string name="any_string_type_description">文字列値。</string>
+    <string name="debug_hw_renderer">GPU レンダラーを設定</string>
+    <string name="display_id_type_description">システム ディスプレイ ID（構成により内部または外部）。</string>
+    <string name="installed_package_name_type_description">デバイスにインストールされている任意のパッケージ。</string>
+    <string name="int_in_range_type_description_between">指定範囲 [%1$d, %2$d] の整数（ステップ: %3$d）。</string>
+    <string name="int_in_range_type_description_from">%1$d 以上の整数（ステップ: %2$d）。</string>
+    <string name="int_in_range_type_description_to">%1$d 以下の整数（ステップ: %2$d）。</string>
+    <string name="mtrl_button_collapsed_content_description">折りたたみ済み</string>
+    <string name="mtrl_button_expanded_content_description">展開済み</string>
+    <string name="mtrl_button_overflow_icon_content_description">その他のオプション</string>
+    <string name="nav_rail_collapsed_a11y_label">折りたたみ済み</string>
+    <string name="nav_rail_expanded_a11y_label">展開済み</string>
+    <string name="settingslib_action_label_pause">一時停止</string>
+    <string name="settingslib_action_label_resume">再開</string>
+    <string name="settingslib_illustration_content_description">アニメーション</string>
+    <string name="sim_slot_id_type_description">有効な SIM スロット ID。</string>
+    <string name="subscription_id_type_description">有効なサブスクリプション ID。</string>
+    <string name="time_duration_type_description">秒単位の整数で表される時間の長さ。</string>
+    <string name="time_of_day_type_description">24 時間形式 HH:mm で指定する時刻。</string>
+    <string name="wifi_ssid_type_description">Wi-Fi ネットワークの SSID。</string>
+</resources>

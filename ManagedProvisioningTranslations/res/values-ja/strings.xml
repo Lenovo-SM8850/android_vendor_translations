@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="admin_has_ability_to_monitor_device">組織の管理者は、この車両に関連付けられた設定、企業アクセス、アプリ、権限、データを監視および管理できます。これにはネットワーク アクティビティと、この車両の位置情報も含まれます。<xliff:g id="line_break">\n\n</xliff:g>組織のプライバシー ポリシーなどの詳細については、組織の管理者にお問い合わせください。</string>
+    <string name="managed_device_info">これは管理対象の車両です</string>
+    <string name="contact_your_admin_for_help">ヘルプが必要な場合は、組織の管理者にお問い合わせください</string>
+    <string name="if_questions_contact_admin">ご不明な点がある場合は、組織の管理者にお問い合わせください</string>
+    <string name="organization_admin">組織の管理者</string>
+    <string name="brand_screen_header">この車両は組織が所有しています</string>
+    <string name="fully_managed_device_provisioning_accept_header">管理対象の車両をセットアップ</string>
+    <string name="fully_managed_device_provisioning_step_1_header">組織のアプリにアクセス</string>
+    <string name="fully_managed_device_provisioning_step_2_header">インフォテインメント システムのデータはプライベートではありません</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">組織の管理者が、この車両でのアクティビティやデータを確認できる場合があります。</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">組織の管理者は、マイクや位置情報の権限など、この車両のアプリの権限を設定できます。</string>
+    <string name="fully_managed_device_provisioning_progress_label">管理対象の車両をセットアップしています</string>
+    <string name="fully_managed_device_provisioning_summary">この車両のインフォテインメント システムを使って、仕事用アプリに簡単にアクセスできます。この車両はプライベートではないため、組織の管理者がデータやアクティビティを確認できる場合があります。</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">この車両のインフォテインメント システムを使って、仕事用アプリに簡単にアクセスできます。この車両はプライベートではないため、組織の管理者がアクティビティやデータを確認できる場合があります。組織の管理者は、マイクや位置情報の権限など、この車両のアプリの権限も設定できます。</string>
+    <string name="fully_managed_device_provisioning_return_device_title">セットアップをキャンセルして車両を返却</string>
+    <string name="fully_managed_device_provisioning_return_device_subheader">この車両をリセットして組織の管理者に返却するか、前の画面に戻ってセットアップを続行してください。</string>
+    <string name="fully_managed_device_reset_and_return_button">リセットして返却</string>
+    <string name="fully_managed_device_provisioning_privacy_body">組織の管理者が、この車両でのデータやアクティビティを確認できる場合があります。</string>
+    <string name="fully_managed_device_provisioning_step_1_description">インフォテインメント システムをセットアップしています…</string>
+</resources>
