@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "EmergencyInfoTranslations",
+    product_specific: true,
+    certificate: "platform",
+}

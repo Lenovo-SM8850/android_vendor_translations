@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "LineageSettingsProviderTranslations",
+    product_specific: true,
+    certificate: "platform",
+}
