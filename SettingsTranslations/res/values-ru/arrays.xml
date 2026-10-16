@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="wifi_privacy_entries_ext">
+        <item>Использовать случайный MAC-адрес для каждого подключения (по умолчанию)</item>
+        <item>Использовать случайный MAC-адрес для каждой сети</item>
+        <item>Использовать MAC-адрес устройства</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Палец не двигается</item>
+    </string-array>
+</resources>

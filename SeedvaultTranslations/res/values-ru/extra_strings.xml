@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="check_error_has_snapshots">Найдено снимков резервных копий: %1$d, часть из них повреждена или содержит ошибки. Ниже показаны резервные копии, которые можно восстановить (частично).</string>
+    <string name="check_error_no_result">Подробные результаты утеряны. Возможно, с момента проверки прошло много времени? Запустите проверку снова.</string>
+    <string name="check_error_no_snapshots">Резервные копии не найдены. Сначала выполните резервное копирование, затем повторите проверку.</string>
+    <string name="check_error_only_broken_snapshots">Найдено снимков резервных копий: %1$d. Все они повреждены. Выполните успешное резервное копирование и повторите проверку.</string>
+    <string name="check_error_snapshot">В этой резервной копии есть ошибки. Возможно, её удастся восстановить частично.</string>
+    <string name="check_files_error">Данные резервной копии повреждены. Файл не будет восстановлен полностью.</string>
+    <string name="check_files_text">Резервная копия \"%s\" содержит следующие файлы:</string>
+    <string name="check_files_title">Файлы в этой резервной копии</string>
+    <string name="check_success_intro">Найдено снимков: %1$d. Успешно проверено %2$d%% их данных (%3$s):</string>
+    <string name="content_remove">Удалить</string>
+    <string name="mtrl_button_collapsed_content_description">Свёрнуто</string>
+    <string name="mtrl_button_expanded_content_description">Развёрнуто</string>
+    <string name="mtrl_button_overflow_icon_content_description">Дополнительное меню</string>
+    <string name="nav_rail_collapsed_a11y_label">Свёрнуто</string>
+    <string name="nav_rail_expanded_a11y_label">Развёрнуто</string>
+    <string name="notification_check_action">Подробности</string>
+    <string name="notification_check_channel_title">Проверка целостности резервной копии файлов</string>
+    <string name="notification_check_error_text">Нажмите, чтобы узнать подробности. Проверено %1$s со средней скоростью %2$s.</string>
+    <string name="notification_check_error_title">Обнаружены ошибки резервной копии файлов</string>
+    <string name="notification_check_finished_text">Проверено %1$s со средней скоростью %2$s.</string>
+    <string name="notification_check_finished_title">Целостность резервной копии файлов подтверждена</string>
+    <string name="notification_check_text">Получение доступных данных резервной копии.</string>
+    <string name="notification_check_title">Проверка резервных копий файлов…</string>
+    <string name="notification_restore_complete_dups">Дубликатов файлов: %1$d.</string>
+    <string name="notification_restore_complete_errors">Файлов с ошибками: %1$d.</string>
+    <string name="select_files_button_restore">Восстановить выбранные файлы</string>
+    <string name="select_files_number_of_files">Файлов: %1$d</string>
+    <string name="select_files_title">Выбор файлов для восстановления</string>
+</resources>

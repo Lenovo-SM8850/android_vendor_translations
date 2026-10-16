@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Логическое значение.</string>
+    <string name="any_int_type_description">Целое число.</string>
+    <string name="any_string_type_description">Строковое значение.</string>
+    <string name="debug_hw_renderer">Выбрать GPU-рендерер</string>
+    <string name="display_id_type_description">Системный идентификатор дисплея (внутреннего или внешнего, в зависимости от конфигурации).</string>
+    <string name="installed_package_name_type_description">Любой пакет, установленный на устройстве.</string>
+    <string name="int_in_range_type_description_between">Целое число в диапазоне [%1$d, %2$d] с шагом %3$d.</string>
+    <string name="int_in_range_type_description_from">Целое число, большее или равное %1$d, с шагом %2$d.</string>
+    <string name="int_in_range_type_description_to">Целое число, меньшее или равное %1$d, с шагом %2$d.</string>
+    <string name="manage_windows_icon_text">Открыть окно %1$d</string>
+    <string name="mtrl_button_collapsed_content_description">Свёрнуто</string>
+    <string name="mtrl_button_expanded_content_description">Развёрнуто</string>
+    <string name="mtrl_button_overflow_icon_content_description">Дополнительное меню</string>
+    <string name="nav_rail_collapsed_a11y_label">Свёрнуто</string>
+    <string name="nav_rail_expanded_a11y_label">Развёрнуто</string>
+    <string name="settingslib_action_label_pause">приостановить</string>
+    <string name="settingslib_action_label_resume">возобновить</string>
+    <string name="settingslib_illustration_content_description">Анимация</string>
+    <string name="sim_slot_id_type_description">Допустимый идентификатор слота SIM.</string>
+    <string name="subscription_id_type_description">Допустимый идентификатор подписки.</string>
+    <string name="time_duration_type_description">Длительность в секундах, заданная целым числом.</string>
+    <string name="time_of_day_type_description">Время суток в 24-часовом формате HH:mm.</string>
+    <string name="wifi_ssid_type_description">SSID сети Wi-Fi.</string>
+</resources>

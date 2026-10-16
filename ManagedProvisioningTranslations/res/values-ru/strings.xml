@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="admin_has_ability_to_monitor_device">Администратор организации может отслеживать настройки, корпоративный доступ, приложения, разрешения и данные, связанные с этим автомобилем, включая сетевую активность, а также местоположение автомобиля, и управлять ими.<xliff:g id="line_break">\n\n</xliff:g>За дополнительной информацией, включая правила конфиденциальности организации, обратитесь к администратору организации.</string>
+    <string name="contact_your_admin_for_more_info">За дополнительной информацией, включая правила конфиденциальности организации, обратитесь к администратору организации.</string>
+    <string name="managed_device_info">Это управляемый автомобиль</string>
+    <string name="contact_your_admin_for_help">За помощью обратитесь к администратору организации</string>
+    <string name="contact_device_provider">Чтобы узнать больше, обратитесь к <xliff:g id="it_admin" example="organizations manager">%1$s</xliff:g>.</string>
+    <string name="if_questions_contact_admin">Если у вас есть вопросы, обратитесь к администратору организации</string>
+    <string name="organization_admin">администратору организации</string>
+    <string name="brand_screen_header">Этот автомобиль принадлежит организации</string>
+    <string name="fully_managed_device_provisioning_accept_header">Настройка управляемого автомобиля</string>
+    <string name="fully_managed_device_provisioning_step_1_header">Доступ к приложениям вашей организации</string>
+    <string name="fully_managed_device_provisioning_step_2_header">Данные информационно-развлекательной системы не являются личными</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">Администратор организации может видеть ваши действия и данные в этом автомобиле.</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Администратор организации может задавать разрешения для приложений в этом автомобиле, например доступ к микрофону и местоположению.</string>
+    <string name="fully_managed_device_provisioning_progress_label">Настройка управляемого автомобиля</string>
+    <string name="fully_managed_device_provisioning_summary">Используйте информационно-развлекательную систему этого автомобиля для удобного доступа к рабочим приложениям. Этот автомобиль не является личным, поэтому администратор организации может видеть ваши данные и действия.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">Используйте информационно-развлекательную систему этого автомобиля для удобного доступа к рабочим приложениям. Этот автомобиль не является личным, поэтому администратор организации может видеть ваши действия и данные. Кроме того, администратор организации может задавать разрешения для приложений в этом автомобиле, например доступ к микрофону и местоположению.</string>
+    <string name="fully_managed_device_provisioning_return_device_title">Отменить настройку и вернуть автомобиль</string>
+    <string name="fully_managed_device_provisioning_return_device_subheader">Сбросьте настройки и верните этот автомобиль администратору организации или вернитесь на предыдущий экран, чтобы продолжить настройку.</string>
+    <string name="fully_managed_device_reset_and_return_button">Сбросить и вернуть</string>
+    <string name="fully_managed_device_provisioning_privacy_title">Уведомление о конфиденциальности</string>
+    <string name="fully_managed_device_provisioning_privacy_body">Администратор организации может видеть ваши данные и действия в этом автомобиле.</string>
+</resources>
