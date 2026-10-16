@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_title">Дополнительные настройки</string>
+    <string name="more_settings_subtitle">Относительная громкость, автоопределение уха и другое</string>
+</resources>
