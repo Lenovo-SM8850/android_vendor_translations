@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ManagedProvisioningTranslations",
+    product_specific: true,
+    certificate: "platform",
+}
